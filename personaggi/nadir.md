@@ -15,6 +15,7 @@ Il nome non invita. Non rassicura. Va bene così.
 - Rifiutano il **controllo totale** delle élite sul sistema energetico e su tutto ciò che ne dipende.
 - Non vogliono più essere **passivi** di fronte a un mondo che in appartamento sembra *rosa e fiori*, ma che nasconde **verità crude**, come sempre per colpa dei poteri forti.
 - Parlano di **ribellione** — non sempre chiaro in che forma. Per ora: voce, rete, consapevolezza.
+- Man mano che si **mobilizzano**, iniziano a **intralciare** i poteri forti con azioni nel sistema — anomalie, ritardi, controlli non documentati. Luca li incontra prima ancora di capire chi li causa. _(Rivelazione futura.)_
 
 ## Come si presentano nell'Etere
 
