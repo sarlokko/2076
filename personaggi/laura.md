@@ -8,7 +8,7 @@
 
 ## Ruolo nella storia
 
-Coprotagonista del racconto. Membro di **Nadir**. È lei che, nella prima sera, **nota Luca** nell'Etere — ma per ora resta solo una figura, senza nome, senza volto chiaro.
+Coprotagonista del racconto. Membro di **Nadir**. È lei che, nella prima sera, **nota Luca** nell'Etere — per settimane resta ombra e messaggi; al **capitolo 7** si presenta con il nome **Laura** nell'Etere e gli chiede di capire perché lo vuole in Nadir.
 
 Più avanti — **non subito** — emergerà nel mondo reale e il rapporto con Luca inizierà. Conflitto, poi complicità, poi amore: un arco lento, parallelo alla trama principale.
 
@@ -24,7 +24,7 @@ Pochissimo. Apposta.
 
 | Fase | Come appare Laura |
 |------|-------------------|
-| **Inizio** | Ombra. Sguardo nell'Etere. Messaggi senza firma. Presenza che si intuisce ma non si nomina. |
+| **Inizio** | Ombra. Sguardo nell'Etere. Messaggi senza firma. **Cap. 7:** nome *Laura* nell'Etere + proposta Nadir. |
 | **Centro** | Emergenza graduale: incontri, scontri, rivelazioni parziali. |
 | **Dopo** | Identità chiara, rapporto con Luca che si costruisce. |
 
@@ -44,19 +44,16 @@ Luca riceve un messaggio anonimo — appuntamento, minaccia leggera. **Non firma
 
 Dopo il blackout e il pranzo con Diego/Marco. Laura **non** può sapere che a pranzo si è parlato di Erebo (è stato Diego a dirlo; Luca non ha aperto bocca). Il messaggio tocca solo **sabato** — *quello che hai visto* — e l'appuntamento in Etere. Nessun riferimento a pranzo né al nome Erebo; quello arriva al **Capitolo 7**.
 
-## Incontro nell'Etere (Capitolo 7 — bozza)
+## Incontro nell'Etere (Capitolo 7)
 
-Luca va all'appuntamento (messaggio cap. 6). Laura ancora **senza nome** per lui.
+Luca va all'appuntamento (messaggio cap. 6). **Si presentano:** lei dice *Laura*, lui *Luca Moretti*.
 
 Argomenti:
 - L'**attacco Erebo** durante il blackout del Quartiere delle Colonne
 - Nadir sa che si chiamano **Erebo** — non è roba da social, è roba da chi sta sotto
 - Questa volta **ci sono andati molto vicini** a prenderli; la rete è scossa, qualcuno ha dovuto spostarsi, cancellare tracce
-- Luca non deve parlare di Erebo in ufficio (richiama il pranzo con Diego) — **Laura** lo dice in Etere al cap. 7; non sa i dettagli del pranzo, solo che il nome circola
-
-## Capitolo 7 (scritto)
-
-Incontro in Etere ore 22. Stanza nascosta, varco instabile. Laura senza nome; Luca riconosce figura cap. 1 + donna giardino. Spiega Erebo vs Spettri, attacco sabato, Nadir quasi presi (2 ripari persi). Avviso: non dire Erebo in ufficio, tenere fotogrammi al sicuro. Chiude con «non scappare» (eco giardino) e nessun messaggio finale.
+- Luca non deve parlare di Erebo in ufficio (Laura sa che circola, non i dettagli del pranzo)
+- **Reclutamento:** Laura gli fa capire che lo vuole in Nadir perché è *l'uomo giusto* — trova le falle, è venuto al giardino, ha i fotogrammi, lavora dentro Prisma/Eos. Non chiede il sì stasera; Luca non accetta né rifiuta.
 
 ## Rapporto con Luca (arco lungo)
 
@@ -74,6 +71,6 @@ _Vedi: [note/arco-narrativo.md](../note/arco-narrativo.md)_
 ## Da NON fare (per ora)
 
 - Non dare background dettagliato a Laura troppo presto.
-- Non farla comparire di persona con nome e cognome nei primi capitoli.
+- Non farla comparire di persona nel mondo reale con nome e cognome finché non è il momento giusto.
 - Non spiegare il suo ruolo in Nadir finché non serve alla scena.
 - Non accelerare l'incontro nel mondo reale solo perché c'è un appuntamento nel messaggio — il ritardo può essere parte della tensione.
