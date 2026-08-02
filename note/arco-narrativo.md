@@ -16,6 +16,18 @@ L'arco emotivo tra i due protagonisti attraversa **tutto il libro** — ma Laura
 - **Cap. 2**: un messaggio senza firma. Luca non sa chi sia.
 - **Dopo**: Laura prende tempo. Ombre, indizi, forse appuntamenti mancati o incontri dove non si presenta come lei. Il lettore aspetta con Luca.
 
+### Timeline (cap. 1–7)
+
+| Giorno | Capitolo | Evento |
+|--------|----------|--------|
+| Notte prima del lunedì 1 | 1 | Nadir nell'Etere |
+| Lunedì 1 | 2–3 | Prisma; messaggio; giardino sera |
+| Venerdì | 4 | Audit Eos-7 |
+| Sabato sera | 5 | Blackout Colonne |
+| Lunedì 2 | 6–7 | Prisma; messaggio Laura; incontro Etere ore 22 |
+
+Circa **una settimana** dalla prima sera al cap. 7 — non mesi.
+
 ### Trama principale (bozza — ordine narrativo)
 
 | Fase | Evento | Note |
