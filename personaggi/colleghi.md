@@ -96,9 +96,9 @@ Quando qualcosa non le torna, lo descrive con immagini — *una stanza spostata 
 
 #### Capitolo 4 — presenza di Sara
 
-- Nel testo: **velata**. Una frase normale (*Buon weekend, prof*), un gesto minimo (si ferma un istante, guarda il monitor spento — non lui).
-- **Niente** domande su «ti interessa», niente pacca sulla spalla, niente che suggerisca complotto al lettore.
-- Sara *capisce* solo in retrospectiva — non per Luca in scena.
+- Nel testo: **velata ma memorabile**. Sguardo diverso (misura lui, non il monitor). Una frase ambigua sulle cose *sepolte* che restano perché qualcuno le tiene lì.
+- Luca la interpreta come metafora da collega / rimprovero sullo stile — **la pulce nell'orecchio** che poi scaccia. In retrospectiva: Sara aveva capito.
+- **Niente** rivelazioni su Nadir o complotti. Solo un'impressione che non torna subito.
 
 #### Indizi da seminare (bozza)
 
