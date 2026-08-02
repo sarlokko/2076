@@ -2,39 +2,148 @@
 
 Reparto **Sicurezza e Vulnerabilità** (piano 14).
 
+---
+
 ## Marco Venturi
 
-- **Ruolo**: analista senior, nel reparto da dieci anni — il più anziano del team.
-- **Età**: quarantacinque circa.
-- **Tratti**: calmo, poche parole, barba curata, tazze sempre nere. Non alza mai la voce; quando spiega qualcosa lo fa con pazienza infinita.
-- **Con Luca**: ogni mattina il caffè insieme alla macchinetta del piano. Non sono amici fuori dall'ufficio, ma c'è una fiducia silenziosa. Marco è stato il primo a dire a Luca, quando è arrivato, che *"qui non si vergogna di chiedere"*.
-- **Dettaglio**: tiene sul monitor un adesivo sbiadito di un sentiero di montagna — dice che cammina nei weekend, lontano dalle torri.
+### Chi è
+
+Quarantacinque anni. Analista senior, nel reparto da dieci — il più anziano del team. Alto, spalle larghe, barba curata, tazze sempre nere. Parla poco; quando lo fa, vale la pena ascoltare.
+
+### Background
+
+È cresciuto in un paese di montagna del Trentino — non così lontano, come mondo, da quello di Luca, anche se non si sono mai detti così. Suo padre faceva il elettricista; sua madre teneva un negozio di ferramenta. Quando nel **2041** arrivò il tracollo, Marco aveva venti anni: ricorda le ore senza corrente, il generatore di emergenza del vicino che funzionava a intermittenza, la neve che si scioglieva in fretta nei barili perché non c'era abbastanza calore per tutti.
+
+Non ne parla spesso. Ma quando Luca menziona le storie del padre — il paese al buio, le zone rurali ultime a essere servite — Marco annuisce in un modo che non richiede spiegazioni.
+
+Dopo il tracollo ha fatto di tutto: corsi accelerati, lavori saltuari, un periodo in un cantiere per le prime torri di ricezione. È entrato in Prisma quando l'azienda stava ancora crescendo, attirato non dal nome ma dalla promessa di *capire* i sistemi che tenevano in piedi il mondo nuovo. Ora ha una casa in periferia, una moglie — **Paola** — che insegna nelle medie, e un figlio quattordicenne, **Andrea**, ossessionato dall'Etere e dai giochi, come Luca a quell'età.
+
+### Vita fuori dall'ufficio
+
+Ogni weekend che può, esce a camminare. Non nell'Etere: sulle montagne vere, lontano dalle torri e dagli schermi. Sul monitor ha un adesivo sbiadito del sentiero delle Pale — dice che gli serve per ricordare che esiste ancora qualcosa che non si misura in millisecondi.
+
+### Con Luca
+
+Il caffè insieme ogni mattina non è un rituale dichiarato. È cominciato per caso, due anni fa, quando Marco lo trovò fermo davanti alla macchinetta con l'aria di chi non ha ancora deciso se la giornata è un'opportunità o un castigo. Da allora, due tazze nere, cinque minuti, nessuna formalità.
+
+È stato il primo a dirgli, quando Luca era appena arrivato, che *qui non si vergogna di chiedere*. Luca non l'ha mai dimenticato.
+
+Non sono amici fuori dall'ufficio — non si vedono a cena, non si scrivono nel tempo libero. Ma c'è una fiducia silenziosa. Marco vede in Luca qualcosa di sé da giovane: la stessa curiosità, meno la stanchezza.
+
+### Dettaglio narrativo
+
+Quando Luca non dorme o è distratto, Marco se ne accorge. Non chiede due volte. Aspetta.
+
+---
 
 ## Sara Okonkwo
 
-- **Ruolo**: analista, specializzata in audit di protocolli di trasmissione.
-- **Età**: trentatré circa.
-- **Tratti**: veloce, ironica, difficile da battere in una discussione. Collezione di tazze colorate sul desk — ognuna con una frase assurda. Ride spesso e fa ridere gli altri.
-- **Con Luca**: lo chiama *"prof"* quando vuole un parere, anche se scherza. È la prima che va da lui quando un report non torna, perché sa che non la farà sentire in imbarazzo.
-- **Dettaglio**: mangia sempre qualcosa tra un ticket e l'altro — barrette, frutta secca, *"il cervello ha bisogno di carburante, anche se il mondo non lo usa più"*.
+### Chi è
+
+Trentatré anni. Analista, specializzata in audit di protocolli di trasmissione. Veloce, ironica, difficile da battere in una discussione. Ride spesso — non per compiacere, ma perché le viene naturale.
+
+### Background
+
+Nata a Milano da genitori nigeriani arrivati negli anni Venti del secolo: **Joseph**, ingegnere elettronico, e **Amaka**, infermiera. Cresciuta tra due mondi — italiano a scuola, igbo a casa — e orgogliosa di entrambi. Suo fratello maggiore **Kelechi** lavora per il **Gruppo Eos**, in un ufficio tecnico a Roma; non ne parla in ufficio se non serve, non per vergogna, ma perché sa che i legami familiari con il cliente possono complicare le cose.
+
+Sara ricorda la città grigia dell'infanzia — il cielo che sua madre non voleva aprire troppo le finestre, le auto che facevano rumore, l'odore di gasolio nei giorni di smog. Ricorda anche il giorno in cui, bambina, hanno acceso per la prima volta una lampada alimentata dal nuovo reticolo senza che nessuno dovesse controllare il contatore. Suo padre aveva pianto. Lei non aveva capito del tutto, allora. Ora sì.
+
+Ha studiato ingegneria, poi si è spostata sulla sicurezza perché preferisce trovare le bugie nei dati piuttosto che costruire qualcosa che qualcun altro le racconta. In Prisma da cinque anni.
+
+### Vita fuori dall'ufficio
+
+Vive sola in un appartamento pieno di piante — sul balcone, sul davanzale, una pianta che non le è mai morta sul tavolo da pranzo. Ha un gatto rosso, **Byte**, che compare spesso nelle videocall con uno sfondo finto per non disturbare.
+
+Collezione di tazze sul desk: ognuna con una frase assurda, regalo di qualcuno o trovata in un mercato. *"Non è un bug, è una feature"* è la preferita. Mangia sempre qualcosa tra un ticket e l'altro — barrette, frutta secca — e dice che *il cervello ha bisogno di carburante, anche se il mondo non lo usa più*.
+
+### Con Luca
+
+Lo chiama **prof** con ironia affettuosa, mai per prendere in giro davvero. È la prima che va da lui quando un report non torna, perché sa che non la farà sentire in imbarazzo. Si fidano a vicenda sul lavoro; a volte pranzano insieme e parlano di tutto tranne che di lavoro — serie, un libro, un gioco che ha provato nel weekend.
+
+Sara è convinta che il mondo del 2076 sia migliore di quello in cui è cresciuta. Non è ingenua: sa che qualcosa non torna, a volte, nei protocolli che audita. Ma non è ancora pronta a credere che tutto sia una menzogna.
+
+### Dettaglio narrativo
+
+Quando qualcosa non le torna, lo descrive con immagini — *una stanza spostata di mezzo metro* — non con tecnicismi freddi. È il suo modo di pensare.
+
+---
 
 ## Diego Mori
 
-- **Ruolo**: junior, nel reparto da un anno.
-- **Età**: ventidue.
-- **Tratti**: entusiasta, curioso, un po' impacciato quando parla con i senior. Due dispositivi sempre in tasca — uno per Prisma, uno per i giochi.
-- **Con Luca**: lo ammira senza vergogna. Porta spesso domande che *"forse sono stupide"* e Luca le trova sempre utili. Diego prende appunti quando Luca spiega qualcosa, anche se non glielo chiede nessuno.
-- **Dettaglio**: ha un adesivo di un vecchio videogioco sul laptop — Luca glielo ha consigliato lui.
+### Chi è
+
+Ventidue anni. Junior, nel reparto da poco più di un anno. Entusiasta, curioso, impacciato quando parla con i senior — ma sempre meno che all'inizio.
+
+### Background
+
+Cresciuto in città, nel quartiere nord: un mondo già post-transizione, dove l'energia wireless è normalità e l'Etere è cresciuto insieme a lui. Suo padre **Renato** è bibliotecario in una scuola superiore; sua madre **Chiara** tiene un piccolo laboratorio di riparazioni — ironicamente, roba che ormai quasi nessuno rompe più, ma lei continua perché *qualcuno deve saper mettere le mani sulle cose*.
+
+Diego non ha vissuto il tracollo. Lo conosce solo dalle storie — e da Marco, a volte, quando il senior lascia sfuggire mezzo ricordo e poi cambia discorso. Per questo ammira Luca e gli altri che *sanno*: non per anzianità, ma per un mondo che lui può solo immaginare.
+
+È entrato in Prisma dopo un tirocinio borderline — quasi non l'avevano preso, troppo giovane, troppo inesperto. Luca fu uno dei pochi che votò per dargli una chance, dopo un colloquio in cui Diego aveva spiegato un problema di rete con un entusiasmo che aveva fatto sorridere persino Elena. Da allora, Diego non l'ha dimenticato.
+
+### Vita fuori dall'ufficio
+
+Studio piccolo in affitto, due dispositivi sempre in tasca — uno per Prisma, uno per i giochi. Sull laptop, un adesivo di un vecchio videogioco che Luca gli aveva consigliato anni prima, quando ancora non lavoravano insieme: *"L'hai provato?"* — *"Ancora no."* — *"Allora provaci."* Diego l'ha provato. E ha attaccato l'adesivo.
+
+Nell'Etere ha un gruppo di amici con cui gioca il giovedì sera. Non è un esperto come Luca, ma ci va spesso. A volte pensa che il reparto sicurezza sia la versione adulta dello stesso istinto: trovare dove il sistema si rompe.
+
+### Con Luca
+
+Lo ammira senza vergogna. Porta domande che *forse sono stupide* e scopre che non lo sono mai. Prende appunti quando Luca spiega, anche se nessuno glielo chiede — non per adulare, ma perché ha imparato che le cose importanti vanno scritte prima che evaporino.
+
+Luca per lui non è solo un collega: è il modello di come vorrebbe essere tra cinque anni — competente, disponibile, senza fare il saputello.
+
+### Dettaglio narrativo
+
+Quando è nervoso, parla troppo in fretta. Quando capisce qualcosa, si illumina in un modo che Luca trova difficile non apprezzare.
+
+---
 
 ## Elena Ruiz
 
-- **Ruolo**: responsabile del reparto (non tra i "preferiti" intimi, ma presente).
-- **Età**: cinquant'anni circa.
-- **Tratti**: diretta, efficiente, poco incline alle chiacchiere. Rispettata da tutti.
-- **Con Luca**: sa che è uno dei migliori e glielo lascia intendere senza complimenti inutili. Si fida di lui per i casi delicati.
+### Chi è
 
-## Tommaso (piano 12)
+Cinquantaquattro anni. Responsabile del reparto. Diretta, efficiente, poco incline alle chiacchiere. Rispettata da tutti — anche da chi non le va a genio.
 
-- **Ruolo**: tecnico infrastrutture, altro reparto.
-- **Tratti**: timido, si sente in imbarazzo a chiedere aiuto.
-- **Con Luca**: compare nel Capitolo 2 per un problema sui log di un firewall; Luca lo aiuta senza farlo sentire "il pazzo del piano".
+### Background
+
+Nata a Madrid, venuta nel nord Italia negli anni Quaranta del duemila per lavoro nel settore tech — allora ancora pre-transizione, ancora caotico. Ha visto Prisma nascere, crescere, essere acquisita dal **Gruppo Eos**. Ha visto reparti interi sparire e altri nascere. Non è sentimentalmente legata all'azienda, ma è ferocemente legata alle persone che considera competenti.
+
+Non ha figli. Ha un marito, **Javier**, che fa il restauratore di libri antichi — un mestiere che nel 2076 suona quasi come poesia. Vive in un appartamento vecchio, pieno di legno e carta, lontano dall'estetica lucida di Prisma.
+
+Durante il tracollo era già manager di un team minore: ricorda le notti in ufficio, i generatori di backup che non bastavano, le mail che nessuno poteva inviare. Non ne parla. Ma quando qualcuno dice che *prima era peggio*, Elena non contraddice — annuisce, e basta.
+
+### Con Luca
+
+Sa che è uno dei migliori. Glielo lascia intendere senza complimenti inutili: gli affida i casi delicati, lo lascia lavorare senza respirargli sul collo, lo difende quando qualcuno di sopra chiede tempi irrealistici.
+
+Non è una figura materna. Non è una amica. È la capa che vuole che il lavoro sia fatto bene — e sa che con Luca, di solito, lo è.
+
+### Dettaglio narrativo
+
+Quando attraversa il reparto, il brusio si abbassa di mezzo tono. Non perché la temano. Perché la rispettano.
+
+---
+
+## Tommaso Berretta (piano 12)
+
+### Chi è
+
+Quarant'anni. Tecnico infrastrutture, nel piano dodici da quindici anni. Spalle curve, voce bassa, l'aria di chi preferirebbe risolvere i problemi da solo piuttosto che chiedere.
+
+### Background
+
+Cresciuto in un paese della pianura padana — non la montagna di Marco o di Luca, ma la stessa idea di *periferia*: posti dove le cose arrivano dopo. Durante il tracollo aveva sedici anni; ricorda suo nonno che diceva che *la luce non doveva mai essere data per scontata*, e il nonno aveva ragione.
+
+È entrato in Prisma giovane, ha visto passare generazioni di colleghi. Un divorzio, qualche anno fa — non ne parla. Vive da solo in un condominio silenzioso. Il lavoro gli va bene; è bravo, anche se non è il tipo che si mette in mostra.
+
+### Con Luca
+
+Non sono vicini. Si conoscono di vista, di nome, di qualche ticket incrociato negli anni. Tommaso viene da Luca quando ha esaurito le altre opzioni — non perché Luca sia famoso, ma perché ha sentito dire che *quello del quattordicesimo non ti fa sentire idiota*.
+
+Luca gli fa credito per aver bussato.
+
+### Dettaglio narrativo
+
+Quando chiede aiuto, parla come se stesse disturbando. Luca ha imparato a dirgli che no, non sta disturbando — e a dargli il tempo per capire da solo, prima di dargli la risposta.
