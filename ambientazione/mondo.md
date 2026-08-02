@@ -42,6 +42,28 @@ La popolazione mondiale è **controllata**. Non esiste più il problema della so
 
 > _Nota per lo sviluppo narrativo: chi decide i criteri? Come avviene il controllo? È accettato dalla maggioranza o è un punto di tensione nascosto?_
 
+## Il potere sulle élite
+
+Il controllo del sistema energetico è concentrato nelle mani di **pochissime élite mondiali** — un gruppo ristrettissimo di persone (o istituzioni) che detiene l'autorità su satelliti, torri e reticolo di trasmissione.
+
+### Il potere dello spegnimento
+
+Queste élite hanno la capacità tecnica di **spegnere una zona intera**: interrompere l'energia in una città, una regione, un territorio. Motivi possibili: politici, personali, di pressione o punizione.
+
+**Non è mai accaduto.** Almeno, non ufficialmente, non in modo documentato. Il sistema funziona senza interruzioni da decenni.
+
+Ma il pensiero è lì. Molte persone ci hanno pensato. È una paura diffusa ma non detta ad alta voce: *cosa succederebbe se un giorno qualcuno decidesse di spegnere la luce?*
+
+### Atmosfera sociale
+
+In superficie, il mondo del 2076 è pacifico e prospero. Sotto, corre una corrente di **sospetto latente**:
+
+- La gratitudine per l'abbondanza energetica convive con la consapevolezza di una dipendenza totale.
+- Nessuno parla apertamente dello spegnimento — sarebbe visto come paranoia, o peggio, come minaccia.
+- Le élite sono rispettate, temute, o entrambe le cose. La loro identità è nota solo in parte; il resto è velo, leggenda, o semplice assenza di informazioni.
+
+> _Questa è la tensione narrativa centrale: un potere mai esercitato, ma sempre presente. Fino a quando?_
+
 ## Cronologia (bozza)
 
 | Anno | Evento |
@@ -53,8 +75,9 @@ La popolazione mondiale è **controllata**. Non esiste più il problema della so
 
 ## Domande aperte
 
-- Chi possiede o gestisce i satelliti e le torri?
+- Chi sono concretamente le élite? Quante persone? Come si sono insediate al potere?
+- Il controllo demografico è legato alle stesse élite che gestiscono l'energia?
 - Cosa succede alle zone senza copertura (oceani aperti, zone polari, aree remote)?
 - Esistono ancora nazioni, o il mondo è organizzato in un altro modo?
-- Quali conflitti restano, nonostante l'abbondanza energetica?
-- Come funziona concretamente il controllo demografico?
+- Esiste un movimento di resistenza, o solo il sospetto silenzioso della gente comune?
+- **Cosa succede nel 2076 che mette alla prova il "mai accaduto"?**
