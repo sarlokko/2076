@@ -40,9 +40,17 @@ Luca riceve un messaggio anonimo — appuntamento, minaccia leggera. **Non firma
 
 > **Nota autori:** a fine libro si scoprirà che il contatto è stato **orchestrato da Sara** — non da Laura da sola. Laura era nel gioco; Sara tirava i fili verso L'Alto.
 
-## Rapporto con Luca (arco lungo)
+## Incontro nell'Etere (Capitolo 7 — bozza)
 
-### Fase 1 — Conflitto
+Luca va all'appuntamento (messaggio cap. 6). Laura ancora **senza nome** per lui.
+
+Argomenti:
+- L'**attacco Erebo** durante il blackout del Quartiere delle Colonne
+- Nadir sa che si chiamano **Erebo** — non è roba da social, è roba da chi sta sotto
+- Questa volta **ci sono andati molto vicini** a prenderli; la rete è scossa, qualcuno ha dovuto spostarsi, cancellare tracce
+- Luca non deve parlare di Erebo in ufficio (richiama il pranzo con Diego)
+
+## Rapporto con Luca (arco lungo)
 Pensieri opposti. Luca in Prisma. Sfiducia reciproca. **Da costruire lentamente.**
 
 ### Fase 2 — Complicità

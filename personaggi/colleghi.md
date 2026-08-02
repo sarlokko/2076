@@ -149,7 +149,7 @@ Quando è nervoso, parla troppo in fretta. Quando capisce qualcosa, si illumina 
 
 ### Capitolo 6 — Erebo a pranzo
 
-Diego pronuncia **Spettri** e **Erebo** sottovoce — sa più di quanto ammette, non ama gli élite, parla come di robe segrete. Luca si impaurisce (fotogrammi + nome nell'aria). Marco chiude con una risata brutta; il discorso finisce lì.
+Diego abita **vicino al Quartiere delle Colonne**. La vicina anziana **signora Marta** gli parla degli **Spettri**; online circola solo quel nome. **Erebo** lo conosce perché si **sussurra in ufficio** da tempo e lui ha collegato le cose dopo sabato. Sottovoce, come robe segrete. Luca si impaurisce. Marco chiude con una risata brutta.
 
 > **Aggancio futuro:** verso la fine, Luca può **affidarsi a Diego** in un momento di difficoltà — capisce che il ragazzo sa, è dalla parte giusta, e non crede al sistema.
 

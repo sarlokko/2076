@@ -55,9 +55,19 @@ Più avanti — tramite Nadir o Laura — scoprirà che si chiamano **Erebo**. O
 
 | Nome | Chi lo usa | Uso nel racconto |
 |------|------------|------------------|
-| **Erebo** | Documenti interni, élite, Nadir, chi è nel segreto | **Nome reale** dell'unità |
-| **Spettri** | Voce popolare, voci di corridoio, chi non ha prove | **Nome popolare** — ciò che la gente sussurra dopo un blackout |
+| **Erebo** | Documenti interni, élite, **Prisma/Eos** (sussurri), **Nadir** | **Nome interno** dell'unità — **non** compare online |
+| **Spettri** | Voce popolare, social, commenti cancellati | **Unico nome** che circola in pubblico dopo un blackout |
 | **L'Alto** | Chi parla delle élite senza nominarle | Il potere sopra Eos — mai visto, solo vociferato |
+
+### Chi sa cosa
+
+- **Online / telegiornali:** solo *guasto tecnico* e, nei social, **Spettri**. Mai **Erebo**.
+- **In azienda** (Prisma, Eos, chi lavora su infrastrutture): il nome **Erebo** si **vocifera** da tempo nei corridoi — non ufficiale, non documentato per i junior, ma qualcuno lo sente e collega i punti.
+- **Nadir:** sa che esistono e li chiamano **Erebo** — sanno cosa fanno durante gli spegnimenti controllati.
+
+### Primo attacco nel racconto (blackout Colonne)
+
+Obiettivo: cercare **Nadir**. Esito: **ci sono andati molto vicini** — Nadir sfugge, ma la rete è scossa. _Vedi incontro Luca–Laura, cap. 7._
 
 ## Domande aperte
 
