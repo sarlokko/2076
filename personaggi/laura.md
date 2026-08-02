@@ -36,7 +36,9 @@ Luca non sa chi sia. Il lettore non sa ancora chi sia. È solo *qualcuno*.
 
 ## Messaggio (Capitolo 2)
 
-Luca riceve un messaggio anonimo — appuntamento, minaccia leggera. **Non firmato.** Per lui è un fantasma. Per noi (autori) può essere Laura, ma nel testo **non va confermato** finché non è il momento.
+Luca riceve un messaggio anonimo — appuntamento, minaccia leggera. **Non firmato.** Per lui è un fantasma.
+
+> **Nota autori:** a fine libro si scoprirà che il contatto è stato **orchestrato da Sara** — non da Laura da sola. Laura era nel gioco; Sara tirava i fili verso L'Alto.
 
 ## Rapporto con Luca (arco lungo)
 

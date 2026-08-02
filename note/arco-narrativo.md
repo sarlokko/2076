@@ -20,14 +20,14 @@ L'arco emotivo tra i due protagonisti attraversa **tutto il libro** — ma Laura
 
 | Fase | Evento | Note |
 |------|--------|------|
-| Cap. 4–5 | Audit Eos-7, anomalie, sospetto cresce | Preparazione — niente rivelazioni grandi |
-| Cap. 6–8 | **Sara è Nadir** | Primo colpo di scena — sembra alleata |
+| Cap. 4–5 | Audit Eos-7, anomalie, sospetto cresce | Luca **insabbia** il report (cap. 4); Sara **velata** — un gesto, una frase |
+| Cap. 6–8 | **Sara è Nadir** | Primo colpo di scena — sembra alleata; Luca la **rincorre** dentro Nadir |
 | Cap. 8–10 | **Blackout** in una zona; telegiornale: guasto risolto | In realtà: spegnimento per operazione **Erebo** |
 | Subito dopo blackout | Luca recupera **immagini di nascosto** | Fotogrammi: soldato che **sparisce** in un frame |
 | Cap. 12–15 | Luca torna al **paese**, parla col **padre** | Il padre si era ribellato da giovane (guerra/tracollo energia) |
 | Cap. 15–17 | Luca **si unisce a Nadir** | Gli spiegano gli inganni delle élite |
 | Climax | **File nascosti** sui server Prisma | Solo Luca può recuperarli; obiettivo: renderli pubblici |
-| **Finale** | **Sara è cattiva** — secondo twist | Figlia di un élite; **infiltrata in Nadir** come spia |
+| **Finale** | **Sara è cattiva** — secondo twist | Figlia di un élite; infiltrata in Nadir; aveva **messo in contatto Laura e Luca**, raccontato tutto su Luca a Nadir, scelto lui per **incastrarlo** e distruggere Nadir |
 
 ### Arco di Sara (doppio twist)
 

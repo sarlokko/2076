@@ -83,6 +83,23 @@ Quando qualcosa non le torna, lo descrive con immagini — *una stanza spostata 
 - La sua ironia, la fiducia con Luca, le tazze, Byte il gatto: tutto può essere **autentico come temperamento** e **calcolato come posizione**. Il lettore deve poter rivedere i capitoli e trovare indizi.
 - Quando esplode la verità, Luca subisce un **tradimento doppio**: collega + presunta alleata Nadir. Spinge ancora di più verso chi è davvero sincero — **Laura**.
 
+#### Il piano di Sara (rivelazione finale)
+
+> Solo per gli autori. Non anticipare nel testo.
+
+- **È stata Sara** a mettere in contatto **Laura e Luca** (messaggio, appuntamento al giardino — orchestrato da lei).
+- Ha **detto tutto su Luca a Nadir** — competenze, accessi, psicologia, ruolo in Prisma.
+- Ha **proposto Luca** al piano non per credere in Nadir, ma perché era la pedina più comoda: insider perfetto, fidato, facile da **incastrare** quando sarebbe arrivato il momento giusto.
+- Obiettivo reale: **distruggere Nadir una volta per tutte** dall'interno, con Luca come esca o colpevole finale.
+- A metà libro: Luca **rincorre Sara** fin dentro Nadir — crede di seguire un'alleata. Il primo twist (Sara è Nadir) sembra confermato.
+- A fine libro: salta fuori il **tradimento** — Sara non era mai stata dalla parte di Nadir. Era dalla parte di L'Alto.
+
+#### Capitolo 4 — presenza di Sara
+
+- Nel testo: **velata**. Una frase normale (*Buon weekend, prof*), un gesto minimo (si ferma un istante, guarda il monitor spento — non lui).
+- **Niente** domande su «ti interessa», niente pacca sulla spalla, niente che suggerisca complotto al lettore.
+- Sara *capisce* solo in retrospectiva — non per Luca in scena.
+
 #### Indizi da seminare (bozza)
 
 - Sa sempre troppe cose su audit e protocolli «per caso».
