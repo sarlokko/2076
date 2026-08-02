@@ -19,4 +19,4 @@ Nel 2076 il pianeta è alimentato da energia solare orbitale trasmessa via satel
 
 ## Stato
 
-Work in progress — ambientazione in definizione.
+Work in progress — Capitolo 1 in bozza (`capitoli/01.md`).

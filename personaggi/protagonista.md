@@ -73,25 +73,25 @@ Luca è al centro del racconto. La sua competenza in sicurezza lo mette in una p
 
 All'inizio: **nessuna motivazione a ribellarsi**. Crede nel sistema, ama i risultati, lavora per chi lo tiene in piedi.
 
-L'innesco arriva quando, quasi per caso nell'Etere, scopre **Substrato** — un gruppo che rifiuta il controllo delle élite e parla di verità nascoste dietro la facciata del mondo "rosa e fiori". Non li cerca, ma non riesce a ignorarli.
+L'innesco arriva quando, quasi per caso nell'Etere, scopre **Fuliggine** — un gruppo che rifiuta il controllo delle élite e parla di verità nascoste dietro la facciata del mondo "rosa e fiori". Non li cerca, ma non riesce a ignorarli.
 
 - Cosa lo spinge ad andare oltre l'ascolto passivo?
 - Cosa rischia — lavoro, reputazione, fiducia in sé stesso?
-- Cosa ha da perdere se Substrato ha torto? E se ha ragione?
+- Cosa ha da perdere se Fuliggine ha torto? E se ha ragione?
 
-_Vedi: [note/innesco.md](../note/innesco.md) · [personaggi/substrato.md](substrato.md)_
+_Vedi: [note/innesco.md](../note/innesco.md) · [personaggi/fuliggine.md](fuliggine.md) · [capitoli/01.md](../capitoli/01.md)_
 
 ## Arco narrativo
 
 _Da definire._
 
 - Come cambia dal "tecnico che risolve ticket" a qualcuno che tocca il cuore del sistema?
-- La doppia vita (Prisma di giorno / Etere anonimo di sera) converge quando Substrato incrocia il suo lavoro?
+- La doppia vita (Prisma di giorno / Etere anonimo di sera) converge quando Fuliggine incrocia il suo lavoro?
 
 ## Domande aperte
 
 - Luca conosce il legame Prisma–Eos solo come voce corporate, o sa di più?
-- Sa già del potere delle élite sullo spegnimento — lo scoprirà nel dettaglio attraverso Substrato?
+- Sa già del potere delle élite sullo spegnimento — lo scoprirà nel dettaglio attraverso Fuliggine?
 - Il padre è ancora vivo? Vive ancora nel paese?
 - Ha contatti nella rete anonima che diventeranno rilevanti?
 - Chi sono gli amici nelle città virtuali?

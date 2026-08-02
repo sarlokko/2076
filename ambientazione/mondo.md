@@ -48,7 +48,7 @@ L'Etere è un continuo di **città virtuali** in realtà immersiva: non pagine, 
 
 Per molti — soprattutto i più giovani — l'Etere è uno spazio sociale primario, non un complemento alla vita offline. Si lavora nel fisico, si vive anche nel virtuale.
 
-> _Per Luca, programmatore e appassionato di tecnologia, l'Etere è la sera: amici, giochi, anonimato. È lì che scoprirà quasi per caso il gruppo **Substrato**._
+> _Per Luca, programmatore e appassionato di tecnologia, l'Etere è la sera: amici, giochi, anonimato. È lì che scoprirà quasi per caso il gruppo **Fuliggine**._
 
 _Vedi: [etere.md](etere.md) per approfondimenti._
 
@@ -107,5 +107,5 @@ _Vedi anche: [organizzazioni.md](organizzazioni.md) per Gruppo Eos e Prisma Syst
 - Il controllo demografico è legato alle stesse élite che gestiscono l'energia?
 - Cosa succede alle zone senza copertura (oceani aperti, zone polari, aree remote)?
 - Esistono ancora nazioni, o il mondo è organizzato in un altro modo?
-- Esiste un movimento di resistenza — **Substrato**, attivo nell'Etere
-- **Cosa succede nel 2076 che mette alla prova il "mai accaduto"?** → Luca scopre Substrato; il resto da sviluppare
+- Esiste un movimento di resistenza — **Fuliggine**, attivo nell'Etere
+- **Cosa succede nel 2076 che mette alla prova il "mai accaduto"?** → Luca scopre Fuliggine; il resto da sviluppare
