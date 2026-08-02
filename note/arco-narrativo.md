@@ -22,8 +22,9 @@ L'arco emotivo tra i due protagonisti attraversa **tutto il libro** — ma Laura
 |------|--------|------|
 | Cap. 4 | Audit Eos-7, Luca **insabbia**; Sara lascia una **pulce nell'orecchio** | |
 | Cap. 5 | **Blackout** settore Sud-Ovest (Quartiere delle Colonne); comunicato Eos = guasto risolto | Lontano da Stazione Nord / Giardino; operazione **Erebo** |
-| Subito dopo blackout (cap. 5) | Luca recupera **fotogrammi** di nascosto | Sagoma che **sparisce** in un frame; sente «Spettri» online |
-| Cap. 6–8 | **Sara è Nadir** | Primo colpo di scena — sembra alleata; Luca la **rincorre** dentro Nadir |
+| Subito dopo blackout (cap. 5) | Luca recupera **fotogrammi** di nascosto | Sagoma che **sparisce**; solo lui lo sa |
+| Cap. 6 | Lunedì Prisma; pranzo blackout; Sara interviene | **Laura**: messaggio + Etere ore 22 |
+| Cap. 7–8 | **Sara è Nadir** | Primo colpo di scena — sembra alleata; Luca la **rincorre** dentro Nadir |
 | Cap. 12–15 | Luca torna al **paese**, parla col **padre** | Il padre si era ribellato da giovane (guerra/tracollo energia) |
 | Cap. 15–17 | Luca **si unisce a Nadir** | Gli spiegano gli inganni delle élite |
 | Climax | **File nascosti** sui server Prisma | Solo Luca può recuperarli; obiettivo: renderli pubblici |
