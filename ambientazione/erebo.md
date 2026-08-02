@@ -49,15 +49,15 @@ Nei fotogrammi:
 
 Luca non ha ancora un nome da metterci sopra. Ha solo la certezza che qualcosa si muove quando la luce si spegne — e che il comunicato stampa mente.
 
-Più avanti — tramite Nadir, Sara, o altre rivelazioni — scoprirà che si chiamano **Erebo**. O che così li chiamano quelli che sanno.
+Più avanti — tramite Nadir o Laura — scoprirà che si chiamano **Erebo**. O che così li chiamano quelli che sanno.
 
-## Nomi (uso narrativo)
+## Nomi (confermati)
 
-| Nome | Chi lo usa | Effetto |
-|------|------------|---------|
-| **Erebo** | Documenti interni, Nadir, élite | Nome ufficiale oscuro — in mitologia greca, l'oscurità primordiale prima della luce |
-| **Spettri** | Voce popolare, voci di corridoio | Ciò che resta quando non hai un nome da dare al terrore |
-| **L'Alto** | Chi parla delle élite senza nominarle | Il potere sopra Eos — mai visto, solo sussurrato |
+| Nome | Chi lo usa | Uso nel racconto |
+|------|------------|------------------|
+| **Erebo** | Documenti interni, élite, Nadir, chi è nel segreto | **Nome reale** dell'unità |
+| **Spettri** | Voce popolare, voci di corridoio, chi non ha prove | **Nome popolare** — ciò che la gente sussurra dopo un blackout |
+| **L'Alto** | Chi parla delle élite senza nominarle | Il potere sopra Eos — mai visto, solo vociferato |
 
 ## Domande aperte
 
