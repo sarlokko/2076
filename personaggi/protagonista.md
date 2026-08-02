@@ -51,15 +51,17 @@ Si occupa principalmente di **vulnerabilità e sicurezza**: trova falle, le anal
 
 A casa si diletta con i videogiochi. Non solo per svago: per lui è un altro modo di capire sistemi, interfacce, mondi costruiti da codice.
 
-### La rete nel 2076
+### L'Etere
 
-Naviga quello che è diventato l'**internet**: non più siti e feed, ma **città virtuali** in realtà immersiva.
+La sera vive nell'**Etere** — il nome con cui nel 2076 si chiama lo spazio digitale immersivo. Dire "web" suona retrò; l'Etere è città virtuali, avatar, incontri.
 
-- Si ritrova con gli amici dentro spazi condivisi, con il proprio **avatar**.
-- Può **attivare la condivisione** e interagire con gli altri — conversare, esplorare, stare insieme.
-- Oppure restare **nell'anonimato** e farsi i fatti suoi: osservare, vagare, senza dare un volto a nessuno.
+- Si ritrova con gli amici in spazi condivisi.
+- Può **attivare la condivisione** e interagire con gli altri.
+- Oppure restare **nell'anonimato** e farsi i fatti suoi: osservare, vagare, esplorare zone secondarie.
 
-Per Luca la rete è casa tanto quanto l'appartamento fisico. È il posto dove è se stesso senza il badge aziendale.
+Per Luca l'Etere è casa tanto quanto l'appartamento fisico. È il posto dove è se stesso senza il badge aziendale.
+
+_Vedi: [ambientazione/etere.md](../ambientazione/etere.md)_
 
 ## Ruolo nella storia
 
@@ -69,22 +71,27 @@ Luca è al centro del racconto. La sua competenza in sicurezza lo mette in una p
 
 ## Motivazioni
 
-_Da definire man mano che emerge il conflitto._
+All'inizio: **nessuna motivazione a ribellarsi**. Crede nel sistema, ama i risultati, lavora per chi lo tiene in piedi.
 
-- Cosa lo spinge ad andare oltre il suo ruolo?
-- Cosa rischia, e cosa ha da perdere?
+L'innesco arriva quando, quasi per caso nell'Etere, scopre **Substrato** — un gruppo che rifiuta il controllo delle élite e parla di verità nascoste dietro la facciata del mondo "rosa e fiori". Non li cerca, ma non riesce a ignorarli.
+
+- Cosa lo spinge ad andare oltre l'ascolto passivo?
+- Cosa rischia — lavoro, reputazione, fiducia in sé stesso?
+- Cosa ha da perdere se Substrato ha torto? E se ha ragione?
+
+_Vedi: [note/innesco.md](../note/innesco.md) · [personaggi/substrato.md](substrato.md)_
 
 ## Arco narrativo
 
 _Da definire._
 
 - Come cambia dal "tecnico che risolve ticket" a qualcuno che tocca il cuore del sistema?
-- La doppia vita (azienda chiusa / rete anonima) converge in un solo punto?
+- La doppia vita (Prisma di giorno / Etere anonimo di sera) converge quando Substrato incrocia il suo lavoro?
 
 ## Domande aperte
 
 - Luca conosce il legame Prisma–Eos solo come voce corporate, o sa di più?
-- Sa già del potere delle élite sullo spegnimento, o lo scoprirà?
+- Sa già del potere delle élite sullo spegnimento — lo scoprirà nel dettaglio attraverso Substrato?
 - Il padre è ancora vivo? Vive ancora nel paese?
 - Ha contatti nella rete anonima che diventeranno rilevanti?
 - Chi sono gli amici nelle città virtuali?

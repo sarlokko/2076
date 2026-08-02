@@ -31,9 +31,11 @@ Tutto funziona a energia wireless:
 - **Le case** ricevono energia in modo continuo, senza contatori né bollette nel senso tradizionale.
 - **I mezzi di trasporto** si muovono senza mai fermarsi per ricaricare. Non esiste più il concetto di "fare il pieno" o di "batteria scarica".
 
-## La rete nel 2076
+## L'Etere
 
-L'**internet** non è più una collezione di pagine e social. È diventato un insieme di **città virtuali** in realtà immersiva.
+Nel 2076 lo spazio digitale immersivo si chiama **l'Etere**. Dire "web" o "internet" è retrò — termini dell'epoca dei siti e dei social piatti.
+
+L'Etere è un continuo di **città virtuali** in realtà immersiva: non pagine, ma luoghi in cui ci si muove con un avatar.
 
 ### Come funziona
 
@@ -44,9 +46,11 @@ L'**internet** non è più una collezione di pagine e social. È diventato un in
 
 ### Ruolo nella società
 
-Per molti — soprattutto i più giovani — la rete è uno spazio sociale primario, non un complemento alla vita offline. Si lavora nel fisico, si vive anche nel virtuale.
+Per molti — soprattutto i più giovani — l'Etere è uno spazio sociale primario, non un complemento alla vita offline. Si lavora nel fisico, si vive anche nel virtuale.
 
-> _Per un protagonista come Luca, programmatore e appassionato di tecnologia, questa doppia esistenza (sistemi chiusi di giorno, mondi aperti di sera) è naturale — e potenzialmente decisiva quando i due mondi iniziano a sovrapporsi._
+> _Per Luca, programmatore e appassionato di tecnologia, l'Etere è la sera: amici, giochi, anonimato. È lì che scoprirà quasi per caso il gruppo **Substrato**._
+
+_Vedi: [etere.md](etere.md) per approfondimenti._
 
 ## Effetti sul pianeta
 
@@ -103,5 +107,5 @@ _Vedi anche: [organizzazioni.md](organizzazioni.md) per Gruppo Eos e Prisma Syst
 - Il controllo demografico è legato alle stesse élite che gestiscono l'energia?
 - Cosa succede alle zone senza copertura (oceani aperti, zone polari, aree remote)?
 - Esistono ancora nazioni, o il mondo è organizzato in un altro modo?
-- Esiste un movimento di resistenza, o solo il sospetto silenzioso della gente comune?
-- **Cosa succede nel 2076 che mette alla prova il "mai accaduto"?**
+- Esiste un movimento di resistenza — **Substrato**, attivo nell'Etere
+- **Cosa succede nel 2076 che mette alla prova il "mai accaduto"?** → Luca scopre Substrato; il resto da sviluppare
