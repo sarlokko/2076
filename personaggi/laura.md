@@ -51,6 +51,8 @@ Argomenti:
 - Luca non deve parlare di Erebo in ufficio (richiama il pranzo con Diego)
 
 ## Rapporto con Luca (arco lungo)
+
+### Fase 1 — Conflitto
 Pensieri opposti. Luca in Prisma. Sfiducia reciproca. **Da costruire lentamente.**
 
 ### Fase 2 — Complicità
