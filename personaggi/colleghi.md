@@ -125,7 +125,7 @@ Ventidue anni. Junior, nel reparto da poco più di un anno. Entusiasta, curioso,
 
 ### Background
 
-Cresciuto in città, nel quartiere nord: un mondo già post-transizione, dove l'energia wireless è normalità e l'Etere è cresciuto insieme a lui. Suo padre **Renato** è bibliotecario in una scuola superiore; sua madre **Chiara** tiene un piccolo laboratorio di riparazioni — ironicamente, roba che ormai quasi nessuno rompe più, ma lei continua perché *qualcuno deve saper mettere le mani sulle cose*.
+Cresciuto in città — un mondo già post-transizione, dove l'energia wireless è normalità e l'Etere è cresciuto insieme a lui. Ora vive in un piccolo appartamento in affitto **ai margini del Quartiere delle Colonne**, a due isolati dalla zona che sabato si è spenta. Suo padre **Renato** è bibliotecario in una scuola superiore; sua madre **Chiara** tiene un piccolo laboratorio di riparazioni — ironicamente, roba che ormai quasi nessuno rompe più, ma lei continua perché *qualcuno deve saper mettere le mani sulle cose*.
 
 Diego non ha vissuto il tracollo. Lo conosce solo dalle storie — e da Marco, a volte, quando il senior lascia sfuggire mezzo ricordo e poi cambia discorso. Per questo ammira Luca e gli altri che *sanno*: non per anzianità, ma per un mondo che lui può solo immaginare.
 
