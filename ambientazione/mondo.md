@@ -48,7 +48,7 @@ L'Etere è un continuo di **città virtuali** in realtà immersiva: non pagine, 
 
 Per molti — soprattutto i più giovani — l'Etere è uno spazio sociale primario, non un complemento alla vita offline. Si lavora nel fisico, si vive anche nel virtuale.
 
-> _Per Luca, programmatore e appassionato di tecnologia, l'Etere è la sera: amici, giochi, anonimato. È lì che scoprirà quasi per caso il gruppo **Fuliggine**._
+> _Per Luca, programmatore e appassionato di tecnologia, l'Etere è la sera: amici, giochi, anonimato. È lì che scoprirà quasi per caso il gruppo **Nadir**._
 
 _Vedi: [etere.md](etere.md) per approfondimenti._
 

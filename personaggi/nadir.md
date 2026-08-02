@@ -1,12 +1,12 @@
-# Fuliggine
+# Nadir
 
 Gruppo clandestino che opera nell'**Etere**, al di fuori degli spazi ufficiali e moderati.
 
 ## Nome
 
-**Fuliggine** — il nero che resta quando tutto brucia. La macchia sotto la superficie lucida.
+**Nadir** — in astronomia, il punto più basso, esattamente sotto chi osserva. L'opposto dello zenit.
 
-Per loro il mondo del 2076 è una facciata pulita: appartamenti ordinati, cieli azzurri, natura che ritorna. Ma dietro c'è fuliggine — il residuo oscuro del potere, delle menzogne, del controllo che nessuno osa nominare.
+Per loro le élite stanno «in alto»: satelliti, torri, controllo dall'alto. Nadir è chi guarda dal basso — il lato opposto, quello che non si vede dall'appartamento.
 
 Il nome non invita. Non rassicura. Va bene così.
 
@@ -19,7 +19,7 @@ Il nome non invita. Non rassicura. Va bene così.
 ## Come si presentano nell'Etere
 
 - Spazi effimeri, accessi che compaiono e scompaiono.
-- Messaggi frammentati, simboli scuri: macchie, crepe, luci che si spengono.
+- Messaggi frammentati, simboli scuri: punti sotto, ombre, luci che si spengono.
 - Nessun volto ufficiale: chi parla usa avatar neutri o mascherati.
 
 ## Rapporto con Luca
@@ -30,7 +30,7 @@ Per lui, che crede nel sistema e ama il mondo che quella rivoluzione ha costruit
 
 ## Domande aperte
 
-- Fuliggine ha ragione su qualcosa di concreto, o è solo teoria?
+- Nadir ha ragione su qualcosa di concreto, o è solo teoria?
 - Sono infiltrati, osservati, o ancora sotto il radar?
 - C'è un volto reale che Luca incontrerà?
 - Qualcuno dentro Prisma o Eos li conosce — o li combatte?
