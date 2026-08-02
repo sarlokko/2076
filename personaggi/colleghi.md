@@ -66,6 +66,38 @@ Sara è convinta che il mondo del 2076 sia migliore di quello in cui è cresciut
 
 Quando qualcosa non le torna, lo descrive con immagini — *una stanza spostata di mezzo metro* — non con tecnicismi freddi. È il suo modo di pensare.
 
+### Arco narrativo — doppio colpo di scena
+
+> ⚠️ **Solo per gli autori.** Quello che Luca (e il lettore) credono cambia due volte.
+
+| Fase | Cosa crede Luca | Verità |
+|------|-----------------|--------|
+| **Inizio** | Sara è una collega fidata, ironica, crede nel mondo nuovo | Sta recitando una parte — o una parte è vera, ma non tutta |
+| **Primo twist** | Sara fa parte di **Nadir** — alleata, tradimento verso Prisma ma verso la causa giusta | Sembra la rivelazione. Luca si avvicina a lei. |
+| **Secondo twist (finale)** | — | Sara è **cattiva**. È la **figlia di uno degli élite**. Si era **infiltrata in Nadir** dall'interno — spia, non rivoluzionaria. |
+
+#### Cosa significa il secondo twist
+
+- **Doppia infiltrazione**: in Prisma (posizione ufficiale) e in Nadir (per smantellare o monitorare il gruppo dall'interno).
+- Il background pubblico — genitori Joseph e Amaka, fratello Kelechi in Eos — può essere **parzialmente vero**, **costruito**, o **copertura**. Il legame reale è con **L'Alto**: un élite che non compare mai in scena.
+- La sua ironia, la fiducia con Luca, le tazze, Byte il gatto: tutto può essere **autentico come temperamento** e **calcolato come posizione**. Il lettore deve poter rivedere i capitoli e trovare indizi.
+- Quando esplode la verità, Luca subisce un **tradimento doppio**: collega + presunta alleata Nadir. Spinge ancora di più verso chi è davvero sincero — **Laura**.
+
+#### Indizi da seminare (bozza)
+
+- Sa sempre troppe cose su audit e protocolli «per caso».
+- Reazioni ambigue quando si parla di blackout o Erebo.
+- Consigli a Luca che sembrano aiutarlo ma lo avvicinano a dove le élite vogliono.
+- Dopo il primo twist, può guidarlo verso file o scelte che **servono a L'Alto**, non a Nadir.
+
+#### Da NON fare
+
+- Non rivelare il secondo twist prima della fine (o della parte finale del libro).
+- Non rendere Sara una caricatura cattiva fin dall'inizio — deve funzionare come personaggio credibile.
+- Non sostituire Laura con Sara come coprotagonista: Laura resta l'arco emotivo vero.
+
+_Vedi: [../note/arco-narrativo.md](../note/arco-narrativo.md)_
+
 ---
 
 ## Diego Mori

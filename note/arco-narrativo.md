@@ -21,12 +21,23 @@ L'arco emotivo tra i due protagonisti attraversa **tutto il libro** — ma Laura
 | Fase | Evento | Note |
 |------|--------|------|
 | Cap. 4–5 | Audit Eos-7, anomalie, sospetto cresce | Preparazione — niente rivelazioni grandi |
-| Cap. 6–8 | **Sara è Nadir** | Primo colpo di scena |
+| Cap. 6–8 | **Sara è Nadir** | Primo colpo di scena — sembra alleata |
 | Cap. 8–10 | **Blackout** in una zona; telegiornale: guasto risolto | In realtà: spegnimento per operazione **Erebo** |
 | Subito dopo blackout | Luca recupera **immagini di nascosto** | Fotogrammi: soldato che **sparisce** in un frame |
 | Cap. 12–15 | Luca torna al **paese**, parla col **padre** | Il padre si era ribellato da giovane (guerra/tracollo energia) |
 | Cap. 15–17 | Luca **si unisce a Nadir** | Gli spiegano gli inganni delle élite |
 | Climax | **File nascosti** sui server Prisma | Solo Luca può recuperarli; obiettivo: renderli pubblici |
+| **Finale** | **Sara è cattiva** — secondo twist | Figlia di un élite; **infiltrata in Nadir** come spia |
+
+### Arco di Sara (doppio twist)
+
+1. **Fiducia** — collega amata, «prof», audit, pranzo insieme.
+2. **Primo twist** — è Nadir. Luca pensa: tradisce Prisma ma è dalla parte giusta.
+3. **Secondo twist (fine)** — è figlia degli élite. Nadir era la sua copertura o il suo bersaglio. Tutto il resto si ribalta.
+
+Luca, dopo Sara, non può più fidarsi facilmente — e questo **rafforza Laura** come unica linea emotiva autentica (quando finalmente esce dall'ombra).
+
+_Vedi: [../personaggi/colleghi.md](../personaggi/colleghi.md) (Sara Okonkwo)_
 
 ### Erebo (forze speciali)
 
