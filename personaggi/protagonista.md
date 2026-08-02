@@ -73,7 +73,9 @@ Luca è al centro del racconto. La sua competenza in sicurezza lo mette in una p
 
 All'inizio: **nessuna motivazione a ribellarsi**. Crede nel sistema, ama i risultati, lavora per chi lo tiene in piedi.
 
-L'innesco arriva quando, nell'Etere, **trova Nadir** — non per caso, ma seguendo un'anomalia che solo un esperto avrebbe notato. Resta poco; viene scoperto; scappa. La figura che lo nota sarà **Laura**, la coprotagonista: più avanti lo troverà e lo ingaggerà.
+L'innesco arriva quando, nell'Etere, **trova Nadir** — non per caso, ma seguendo un'anomalia che solo un esperto avrebbe notato. Resta poco; viene scoperto da una figura senza nome; scappa.
+
+In seguito arriveranno messaggi, ombre, presenze — e molto più tardi **Laura**, la coprotagonista, emergerà davvero. Con calma.
 
 _Vedi: [note/innesco.md](../note/innesco.md) · [personaggi/nadir.md](nadir.md) · [personaggi/laura.md](laura.md) · [personaggi/colleghi.md](colleghi.md) · [capitoli/01.md](../capitoli/01.md) · [capitoli/02.md](../capitoli/02.md)_
 
