@@ -55,11 +55,11 @@ A casa si diletta con i videogiochi. Non solo per svago: per lui è un altro mod
 
 La sera vive nell'**Etere** — il nome con cui nel 2076 si chiama lo spazio digitale immersivo. Dire "web" suona retrò; l'Etere è città virtuali, avatar, incontri.
 
+Per Luca l'Etere è **la seconda casa**. Non ci entra da turista: ci sa muovere come pochi. Conosce scorciatoie, livelli nascosti, comandi che la maggior parte degli utenti non immagina nemmeno di poter usare — il frutto di anni di curiosità, di lavoro sulla sicurezza, di serate passate a smontare sistemi per capire come sono fatti.
+
 - Si ritrova con gli amici in spazi condivisi.
 - Può **attivare la condivisione** e interagire con gli altri.
-- Oppure restare **nell'anonimato** e farsi i fatti suoi: osservare, vagare, esplorare zone secondarie.
-
-Per Luca l'Etere è casa tanto quanto l'appartamento fisico. È il posto dove è se stesso senza il badge aziendale.
+- Oppure restare **nell'anonimato** e esplorare: layer, anomalie, ciò che non compare sulle mappe ufficiali.
 
 _Vedi: [ambientazione/etere.md](../ambientazione/etere.md)_
 
@@ -73,25 +73,19 @@ Luca è al centro del racconto. La sua competenza in sicurezza lo mette in una p
 
 All'inizio: **nessuna motivazione a ribellarsi**. Crede nel sistema, ama i risultati, lavora per chi lo tiene in piedi.
 
-L'innesco arriva quando, quasi per caso nell'Etere, scopre **Fuliggine** — un gruppo che rifiuta il controllo delle élite e parla di verità nascoste dietro la facciata del mondo "rosa e fiori". Non li cerca, ma non riesce a ignorarli.
+L'innesco arriva quando, nell'Etere, **trova Nadir** — non per caso, ma seguendo un'anomalia che solo un esperto avrebbe notato. Resta poco; viene scoperto; scappa. La figura che lo nota sarà **Laura**, la coprotagonista: più avanti lo troverà e lo ingaggerà.
 
-- Cosa lo spinge ad andare oltre l'ascolto passivo?
-- Cosa rischia — lavoro, reputazione, fiducia in sé stesso?
-- Cosa ha da perdere se Fuliggine ha torto? E se ha ragione?
-
-_Vedi: [note/innesco.md](../note/innesco.md) · [personaggi/fuliggine.md](fuliggine.md) · [capitoli/01.md](../capitoli/01.md)_
+_Vedi: [note/innesco.md](../note/innesco.md) · [personaggi/nadir.md](nadir.md) · [personaggi/laura.md](laura.md) · [capitoli/01.md](../capitoli/01.md)_
 
 ## Arco narrativo
 
-_Da definire._
-
-- Come cambia dal "tecnico che risolve ticket" a qualcuno che tocca il cuore del sistema?
-- La doppia vita (Prisma di giorno / Etere anonimo di sera) converge quando Fuliggine incrocia il suo lavoro?
+- Dal tecnico che crede nel sistema a chi mette in discussione tutto ciò che dà per scontato.
+- **Arco con Laura** (tutto il libro): conflitto → complicità → amore. Vedi [note/arco-narrativo.md](../note/arco-narrativo.md).
 
 ## Domande aperte
 
 - Luca conosce il legame Prisma–Eos solo come voce corporate, o sa di più?
-- Sa già del potere delle élite sullo spegnimento — lo scoprirà nel dettaglio attraverso Fuliggine?
+- Sa già del potere delle élite sullo spegnimento — lo scoprirà nel dettaglio attraverso Nadir?
 - Il padre è ancora vivo? Vive ancora nel paese?
 - Ha contatti nella rete anonima che diventeranno rilevanti?
 - Chi sono gli amici nelle città virtuali?

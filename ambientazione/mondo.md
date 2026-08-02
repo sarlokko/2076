@@ -107,5 +107,5 @@ _Vedi anche: [organizzazioni.md](organizzazioni.md) per Gruppo Eos e Prisma Syst
 - Il controllo demografico è legato alle stesse élite che gestiscono l'energia?
 - Cosa succede alle zone senza copertura (oceani aperti, zone polari, aree remote)?
 - Esistono ancora nazioni, o il mondo è organizzato in un altro modo?
-- Esiste un movimento di resistenza — **Fuliggine**, attivo nell'Etere
-- **Cosa succede nel 2076 che mette alla prova il "mai accaduto"?** → Luca scopre Fuliggine; il resto da sviluppare
+- Esiste un movimento di resistenza — **Nadir**, attivo nell'Etere
+- **Cosa succede nel 2076 che mette alla prova il "mai accaduto"?** → Luca scopre Nadir; il resto da sviluppare

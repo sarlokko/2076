@@ -24,9 +24,13 @@ Il nome non invita. Non rassicura. Va bene così.
 
 ## Rapporto con Luca
 
-Luca li **scopre quasi per caso** durante una delle sue solite serate nell'Etere — in modalità anonima, mentre gira senza meta. Non li cercava. Finisce in un canale o in una piazza secondaria dove qualcuno sta parlando di **spegnimenti**, di **controllo**, di **verità che non si dicono**.
+Luca **trova Nadir** durante una serata nell'Etere. Non è un caso: è un esperto, conosce layer e comandi che gli utenti comuni ignorano. Nota un'anomalia — un dettaglio fuori posto — e la segue fino a uno spazio nascosto dove si riunisce il gruppo.
 
-Per lui, che crede nel sistema e ama il mondo che quella rivoluzione ha costruito, è uno shock. Parte del messaggio suona come paranoia. Parte suona come cose che ha già pensato da solo e non ha mai detto ad alta voce.
+Resta pochi minuti. Poi **Laura** — membro di Nadir — si accorge di lui e lo fissa. Luca **scappa**.
+
+Più avanti Laura lo troverà nel mondo reale e lo **ingaggerà**. Fra i due, all'inizio, conflitto; poi complicità; infine amore — un arco che attraversa tutto il libro.
+
+_Vedi: [laura.md](laura.md) · [capitoli/01.md](../capitoli/01.md)_
 
 ## Domande aperte
 

@@ -18,6 +18,7 @@ Per milioni di persone l'Etere è socialità, svago, lavoro leggero, incontri. P
 
 ## Il lato oscuro
 
-Come ogni spazio aperto, l'Etere ha zone ufficiali e **zone di ombra** — angoli meno moderati, spazi semi-nascosti, conversazioni che non compaiono nei feed pubblici. Non è il dark web del vecchio secolo: è più sottile. Si finisce lì per curiosità, per errore di navigazione, perché qualcuno ha lasciato un varco aperto.
+Come ogni spazio aperto, l'Etere ha zone ufficiali e **zone di ombra** — angoli meno moderati, spazi semi-nascosti, layer che non compaiono sulle mappe pubbliche.
 
-È lì che inizia la storia.
+Chi conosce i sistemi — programmatori, esperti di sicurezza, utenti avanzati — può aprire **pannelli diagnostici**, leggere metadati, seguire anomalie (flicker, hash errati, latenza fuori posto) fino a varchi nascosti. La maggior parte della gente non sa che si possa fare. È lì che operano gruppi come **Nadir**.
+
