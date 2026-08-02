@@ -24,7 +24,7 @@ L'arco emotivo tra i due protagonisti attraversa **tutto il libro** — ma Laura
 | Cap. 5 | **Blackout** settore Sud-Ovest (Quartiere delle Colonne); comunicato Eos = guasto risolto | Lontano da Stazione Nord / Giardino; operazione **Erebo** |
 | Subito dopo blackout (cap. 5) | Luca recupera **fotogrammi** di nascosto | Sagoma che **sparisce**; solo lui lo sa |
 | Cap. 6 | Lunedì Prisma; pranzo: Spettri (vicina Diego + online), Erebo (sussurri in ufficio) | **Laura**: messaggio + Etere ore 22 |
-| Cap. 7 | Incontro **Laura** nell'Etere | Attacco **Erebo**, vicini a prendere Nadir; lei spiega il nome (interno, non social) |
+| Cap. 7 | Incontro **Laura** nell'Etere | Attacco **Erebo**, vicini a prendere Nadir; lei spiega il nome (interno, non social) — **scritto** |
 | Cap. 8–9 | **Sara è Nadir** | Primo colpo di scena — sembra alleata; Luca la **rincorre** dentro Nadir |
 | Cap. 12–15 | Luca torna al **paese**, parla col **padre** | Il padre si era ribellato da giovane (guerra/tracollo energia) |
 | Cap. 15–17 | Luca **si unisce a Nadir** | Gli spiegano gli inganni delle élite |
