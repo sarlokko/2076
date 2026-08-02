@@ -27,6 +27,23 @@ Tutto funziona a energia wireless:
 - **Le case** ricevono energia in modo continuo, senza contatori né bollette nel senso tradizionale.
 - **I mezzi di trasporto** si muovono senza mai fermarsi per ricaricare. Non esiste più il concetto di "fare il pieno" o di "batteria scarica".
 
+## La rete nel 2076
+
+L'**internet** non è più una collezione di pagine e social. È diventato un insieme di **città virtuali** in realtà immersiva.
+
+### Come funziona
+
+- Ogni utente entra con un **avatar** — identità visiva personalizzata nel mondo digitale.
+- Si incontrano amici e sconosciuti in spazi condivisi che sembrano città: piazze, locali, quartieri, eventi.
+- Si può **attivare la condivisione**: farsi vedere, parlare, interagire con gli altri.
+- Oppure restare **anonimi**: navigare, osservare, esplorare senza rivelare chi si è nel mondo reale.
+
+### Ruolo nella società
+
+Per molti — soprattutto i più giovani — la rete è uno spazio sociale primario, non un complemento alla vita offline. Si lavora nel fisico, si vive anche nel virtuale.
+
+> _Per un protagonista come Luca, programmatore e appassionato di tecnologia, questa doppia esistenza (sistemi chiusi di giorno, mondi aperti di sera) è naturale — e potenzialmente decisiva quando i due mondi iniziano a sovrapporsi._
+
 ## Effetti sul pianeta
 
 La transizione ha ripulito il pianeta in modo visibile e rapido:
