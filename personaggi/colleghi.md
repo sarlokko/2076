@@ -147,6 +147,12 @@ Luca per lui non è solo un collega: è il modello di come vorrebbe essere tra c
 
 Quando è nervoso, parla troppo in fretta. Quando capisce qualcosa, si illumina in un modo che Luca trova difficile non apprezzare.
 
+### Capitolo 6 — Erebo a pranzo
+
+Diego pronuncia **Spettri** e **Erebo** sottovoce — sa più di quanto ammette, non ama gli élite, parla come di robe segrete. Luca si impaurisce (fotogrammi + nome nell'aria). Marco chiude con una risata brutta; il discorso finisce lì.
+
+> **Aggancio futuro:** verso la fine, Luca può **affidarsi a Diego** in un momento di difficoltà — capisce che il ragazzo sa, è dalla parte giusta, e non crede al sistema.
+
 ---
 
 ## Elena Ruiz
