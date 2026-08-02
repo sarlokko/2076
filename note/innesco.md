@@ -12,7 +12,8 @@ _Vedi: [capitoli/01.md](../capitoli/01.md)_
 
 ## Dopo l'innesco
 
-- Laura troverà Luca nel mondo reale e lo ingaggerà.
+- **Cap. 2**: giornata a Prisma; messaggio anonimo di Laura con appuntamento.
+- Laura troverà Luca al Giardino della Stazione Nord — primo incontro nel mondo reale.
 - Conflitto iniziale (visioni diverse, ruolo di Luca in Prisma) → complicità → amore, per tutto il libro.
 
 _Vedi: [arco-narrativo.md](arco-narrativo.md) · [../personaggi/laura.md](../personaggi/laura.md)_

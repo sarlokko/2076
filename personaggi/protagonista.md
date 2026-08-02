@@ -75,7 +75,7 @@ All'inizio: **nessuna motivazione a ribellarsi**. Crede nel sistema, ama i risul
 
 L'innesco arriva quando, nell'Etere, **trova Nadir** — non per caso, ma seguendo un'anomalia che solo un esperto avrebbe notato. Resta poco; viene scoperto; scappa. La figura che lo nota sarà **Laura**, la coprotagonista: più avanti lo troverà e lo ingaggerà.
 
-_Vedi: [note/innesco.md](../note/innesco.md) · [personaggi/nadir.md](nadir.md) · [personaggi/laura.md](laura.md) · [capitoli/01.md](../capitoli/01.md)_
+_Vedi: [note/innesco.md](../note/innesco.md) · [personaggi/nadir.md](nadir.md) · [personaggi/laura.md](laura.md) · [personaggi/colleghi.md](colleghi.md) · [capitoli/01.md](../capitoli/01.md) · [capitoli/02.md](../capitoli/02.md)_
 
 ## Arco narrativo
 

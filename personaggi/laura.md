@@ -16,6 +16,14 @@ Si gira. Lo fissa.
 
 Luca **scappa** — stacca l'interfaccia in fretta, senza salutare, senza spiegazioni. Non sa ancora chi sia. Lei sì: o quasi.
 
+## Primo contatto (Capitolo 2)
+
+Il giorno dopo, in pausa pranzo, Luca riceve un **messaggio anonimo** sul dispositivo personale:
+
+> *So che eri lì ieri sera. Stasera. Ore 19. Giardino della Stazione Nord. Vieni da solo.*
+
+Nessuna firma. Ma il messaggio è inequivocabile: qualcuno lo ha identificato. È Laura — anche se Luca non lo sa ancora.
+
 ## Rapporto con Luca
 
 ### Fase 1 — Conflitto
