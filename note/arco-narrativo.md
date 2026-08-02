@@ -16,6 +16,25 @@ L'arco emotivo tra i due protagonisti attraversa **tutto il libro** — ma Laura
 - **Cap. 2**: un messaggio senza firma. Luca non sa chi sia.
 - **Dopo**: Laura prende tempo. Ombre, indizi, forse appuntamenti mancati o incontri dove non si presenta come lei. Il lettore aspetta con Luca.
 
+### Trama principale (bozza — ordine narrativo)
+
+| Fase | Evento | Note |
+|------|--------|------|
+| Cap. 4–5 | Audit Eos-7, anomalie, sospetto cresce | Preparazione — niente rivelazioni grandi |
+| Cap. 6–8 | **Sara è Nadir** | Primo colpo di scena |
+| Cap. 8–10 | **Blackout** in una zona; telegiornale: guasto risolto | In realtà: spegnimento per operazione **Erebo** |
+| Subito dopo blackout | Luca recupera **immagini di nascosto** | Fotogrammi: soldato che **sparisce** in un frame |
+| Cap. 12–15 | Luca torna al **paese**, parla col **padre** | Il padre si era ribellato da giovane (guerra/tracollo energia) |
+| Cap. 15–17 | Luca **si unisce a Nadir** | Gli spiegano gli inganni delle élite |
+| Climax | **File nascosti** sui server Prisma | Solo Luca può recuperarli; obiettivo: renderli pubblici |
+
+### Erebo (forze speciali)
+
+- Operano **solo al buio** — armature invisibili.
+- Comandati dalle **élite** (gruppo mai visto, solo voci).
+- Nome interno: **Erebo**; in giro si dice **Spettri**.
+- _Vedi: [../ambientazione/erebo.md](../ambientazione/erebo.md)_
+
 ### Tensione di fondo
 
 Luca crede nel mondo che la rivoluzione energetica ha costruito. Laura no — o non del tutto. Ma questa frattura si apre **lentamente**, quando lei esce dall'ombra.

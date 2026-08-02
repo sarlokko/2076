@@ -31,3 +31,17 @@ Almeno, così la raccontano.
 ### Percepzione pubblica
 
 Prisma è vista come un'azienda tech di prima fascia: innovativa, affidabile, un posto dove i migliori vogliono lavorare. Il legame con Eos non la contamina — anzi, per molti è un segno di solidità.
+
+## Erebo
+
+Forze speciali che operano **solo al buio**, con armature che rendono gli operatori **invisibili**. Rispondono direttamente alle **élite** — il livello di potere sopra Eos che nessuno ha mai visto.
+
+Il pubblico non ne ha prove ufficiali. Si vocifera. Dopo gli spegnimenti controllati di una zona, qualcuno sussurra di **Spettri**.
+
+_Vedi: [erebo.md](erebo.md)_
+
+## Nadir
+
+Gruppo clandestino nell'**Etere**. Ribellione, consapevolezza, azioni che intralciano i poteri forti.
+
+_Vedi: [../personaggi/nadir.md](../personaggi/nadir.md)_
