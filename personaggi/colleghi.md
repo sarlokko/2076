@@ -32,3 +32,9 @@ Reparto **Sicurezza e Vulnerabilità** (piano 14).
 - **Età**: cinquant'anni circa.
 - **Tratti**: diretta, efficiente, poco incline alle chiacchiere. Rispettata da tutti.
 - **Con Luca**: sa che è uno dei migliori e glielo lascia intendere senza complimenti inutili. Si fida di lui per i casi delicati.
+
+## Tommaso (piano 12)
+
+- **Ruolo**: tecnico infrastrutture, altro reparto.
+- **Tratti**: timido, si sente in imbarazzo a chiedere aiuto.
+- **Con Luca**: compare nel Capitolo 2 per un problema sui log di un firewall; Luca lo aiuta senza farlo sentire "il pazzo del piano".
