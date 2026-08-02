@@ -2,7 +2,11 @@
 
 ## Premessa
 
-Negli ultimi trent'anni il pianeta è cambiato in modo radicale. Intorno al 2046 una nuova tecnologia ha reso possibile catturare l'energia solare nello spazio e trasmetterla sulla Terra in forma di fasci diretti. Da allora il mondo non ha più bruciato carburante né usato altre fonti energetiche tradizionali.
+Negli ultimi trent'anni il pianeta è cambiato in modo radicale. Prima però ci fu il **tracollo**.
+
+Intorno al **2041** il sistema energetico globale — ancora basato su fossili, reti fragili, dipendenza da pochi nodi — entrò in crisi profonda. Black-out a catena, razionamenti, collasso nelle aree periferiche. Chi viveva **fuori dai grandi centri** soffrì più di tutti: ultimo ad essere servito, primo ad essere lasciato indietro.
+
+Intorno al **2046** una nuova tecnologia rese possibile catturare l'energia solare nello spazio e trasmetterla sulla Terra in forma di fasci diretti. Da allora il mondo non ha più bruciato carburante né usato altre fonti energetiche tradizionali.
 
 L'energia è pulita, abbondante e, per tutti gli effetti pratici, infinita.
 
@@ -85,10 +89,13 @@ In superficie, il mondo del 2076 è pacifico e prospero. Sotto, corre una corren
 
 | Anno | Evento |
 |------|--------|
+| **~2041** | **Tracollo energetico globale** — crisi delle reti tradizionali; le zone rurali e periferiche soffrono più di tutte |
 | ~2046 | Prima trasmissione orbitale-terrestre a scala industriale |
 | 2046–2060 | Costruzione del reticolo di torri e antenne; dismissione di fossili e centrali obsolete |
 | 2060–2076 | Rigenerazione ambientale accelerata; ridefinizione delle società urbane |
 | **2076** | Anno in cui si svolge il racconto |
+
+_Vedi anche: [organizzazioni.md](organizzazioni.md) per Gruppo Eos e Prisma Systems._
 
 ## Domande aperte
 

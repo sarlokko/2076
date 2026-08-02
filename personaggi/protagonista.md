@@ -6,11 +6,29 @@
 
 ## Età
 
-Giovane (da definire con precisione — venti/ventiancora).
+Giovane (da definire con precisione — venti/ventiancora). **È nato quando la tecnologia orbitale esisteva già**: non ha vissuto il mondo prima della transizione, solo quello dopo.
+
+## Origini
+
+Viene da un **paese di provincia**, lontano dai grandi centri urbani — colline, campagna, un luogo piccolo dove la vita scorreva a un altro ritmo.
+
+Suo **padre** gli ha raccontato spesso il **tracollo energetico** di circa trentacinque anni prima (~2041): black-out, razionamenti, famiglie che non riuscivano a riscaldarsi o muoversi. Nelle zone periferiche e rurali si era sofferto **più che altrove** — ultimi ad avere accesso all'energia, primi a restare al buio quando il sistema vacillava.
+
+Per Luca quelle storie non sono storia antica: sono il racconto di casa, la voce del papà che descrive un mondo che lui non ha conosciuto ma che sente nelle ossa.
+
+## Rapporto con il sistema energetico
+
+Luca **si fida** del sistema attuale. Non è ingenuo, ma è convinto.
+
+- È sempre stato **amante della natura**: vede con i propri occhi foreste, animali, cieli più puliti — il frutto diretto di trent'anni senza combustibili.
+- Ha **abbracciato** la rivoluzione energetica fin da bambino: per lui è normalità, progresso, la risposta giusta a quello che il padre ha vissuto.
+- Lavora indirettamente per quella stessa catena di potere (Prisma → Gruppo Eos) e non vede contraddizione: sta dalla parte di chi ha riparato il mondo.
+
+> _Questo lo rende vulnerabile narrativamente: se qualcosa non torna, dovrà mettere in discussione non un nemico lontano, ma qualcosa in cui crede davvero._
 
 ## Lavoro
 
-Programmatore in una **multinazionale molto conosciuta** (nome da definire). È tra i più bravi del suo reparto.
+Programmatore in **Prisma Systems**, multinazionale molto conosciuta (controllata dal Gruppo Eos). È tra i più bravi del suo reparto.
 
 ### Specializzazione
 
@@ -65,7 +83,8 @@ _Da definire._
 
 ## Domande aperte
 
-- Quale multinazionale? È legata al sistema energetico o è "solo" tech?
-- Luca sa già del potere delle élite sullo spegnimento, o lo scoprirà?
+- Luca conosce il legame Prisma–Eos solo come voce corporate, o sa di più?
+- Sa già del potere delle élite sullo spegnimento, o lo scoprirà?
+- Il padre è ancora vivo? Vive ancora nel paese?
 - Ha contatti nella rete anonima che diventeranno rilevanti?
 - Chi sono gli amici nelle città virtuali?
