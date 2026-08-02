@@ -4,57 +4,56 @@
 
 **Laura**
 
+> ⚠️ **Regola narrativa:** Laura deve restare **oscura e nascosta** per gran parte del racconto. Non saltare fuori presto. Il lettore (e Luca) devono sentirne la presenza — un'ombra, un messaggio, un'impressione — molto prima di vederla davvero. La sua identità si rivela **con calma**, attraverso tutto il libro.
+
 ## Ruolo nella storia
 
-Coprotagonista del racconto. Membro di **Nadir** — è lei che, nella prima sera, **nota Luca** durante un raduno clandestino nell'Etere e lo identifica come un intruso. Più avanti lo **trova nel mondo reale** e lo **ingaggia** nella causa di Nadir.
+Coprotagonista del racconto. Membro di **Nadir**. È lei che, nella prima sera, **nota Luca** nell'Etere — ma per ora resta solo una figura, senza nome, senza volto chiaro.
+
+Più avanti — **non subito** — emergerà nel mondo reale e il rapporto con Luca inizierà. Conflitto, poi complicità, poi amore: un arco lento, parallelo alla trama principale.
+
+## Cosa sappiamo (per ora)
+
+Pochissimo. Apposta.
+
+- Nell'Etere: avatar diverso dagli altri, sguardo che individua Luca, precisione che spaventa.
+- Nel mondo reale: da definire quando sarà il momento giusto.
+- Background, motivazioni, vita fuori da Nadir: **non ancora** — restano nel cassetto finché la storia non lo chiede.
+
+## Presenza nel racconto (bozza)
+
+| Fase | Come appare Laura |
+|------|-------------------|
+| **Inizio** | Ombra. Sguardo nell'Etere. Messaggi senza firma. Presenza che si intuisce ma non si nomina. |
+| **Centro** | Emergenza graduale: incontri, scontri, rivelazioni parziali. |
+| **Dopo** | Identità chiara, rapporto con Luca che si costruisce. |
 
 ## Primo incontro (Capitolo 1)
 
-Presente alla riunione che Luca scopre nell'Etere. Tra i pochi avatar riuniti, è lei ad accorgersi che qualcuno ai margini **non dovrebbe essere lì** — un anonimo che ha trovato il varco, che osserva troppo a lungo, che non appartiene a quel livello.
+Alla riunione di Nadir. Si gira. Lo fissa. Luca scappa.
 
-Si gira. Lo fissa.
+Luca non sa chi sia. Il lettore non sa ancora chi sia. È solo *qualcuno*.
 
-Luca **scappa** — stacca l'interfaccia in fretta, senza salutare, senza spiegazioni. Non sa ancora chi sia. Lei sì: o quasi.
+## Messaggio (Capitolo 2)
 
-## Primo contatto (Capitolo 2)
+Luca riceve un messaggio anonimo — appuntamento, minaccia leggera. **Non firmato.** Per lui è un fantasma. Per noi (autori) può essere Laura, ma nel testo **non va confermato** finché non è il momento.
 
-Il giorno dopo, in pausa pranzo, Luca riceve un **messaggio anonimo** sul dispositivo personale:
-
-> *So che eri lì ieri sera. Stasera. Ore 19. Giardino della Stazione Nord. Vieni da solo.*
-
-Nessuna firma. Ma il messaggio è inequivocabile: qualcuno lo ha identificato. È Laura — anche se Luca non lo sa ancora.
-
-## Rapporto con Luca
+## Rapporto con Luca (arco lungo)
 
 ### Fase 1 — Conflitto
-
-- **Pensieri opposti**: Laura vede nel sistema energetico un inganno; Luca vi crede ancora.
-- **Ruolo di Luca in Prisma**: per lei è un nemico potenziale, o un asset pericoloso — lavora per la catena Eos–Prisma.
-- Tensione, sfiducia, scontri verbali quando si ritrovano.
+Pensieri opposti. Luca in Prisma. Sfiducia reciproca. **Da costruire lentamente.**
 
 ### Fase 2 — Complicità
-
-- Obiettivi che si avvicinano, prove che qualcosa non torna, bisogno reciproco delle competenze dell'altro.
-- Luca porta la tecnica; Laura porta la conoscenza di Nadir e la volontà di agire.
+Prove condivise, bisogno reciproco. Ancora senza fretta.
 
 ### Fase 3 — Amore
+La complicità diventa qualcosa di più — verso la fine del libro, non prima.
 
-- La complicità diventa qualcosa di più, lentamente, attraverso tutto il libro.
-- Non è una sottotrama: è l'arco emotivo che accompagna quello politico e narrativo fino alla fine.
+_Vedi: [note/arco-narrativo.md](../note/arco-narrativo.md)_
 
-> _L'arco Luca–Laura deve durare tutto il racconto: dal conflitto iniziale alla complicità, fino all'amore._
+## Da NON fare (per ora)
 
-## Tratti (da sviluppare)
-
-- 
-
-## Motivazioni
-
-- 
-
-## Domande aperte
-
-- Qual è il suo ruolo preciso in Nadir? Portavoce, operativa, fondatrice?
-- Come trova Luca nel mondo reale?
-- Cosa sa di Prisma che Luca non sa ancora?
-- Ha una vita fuori da Nadir — lavoro, famiglia, un passato legato al tracollo?
+- Non dare background dettagliato a Laura troppo presto.
+- Non farla comparire di persona con nome e cognome nei primi capitoli.
+- Non spiegare il suo ruolo in Nadir finché non serve alla scena.
+- Non accelerare l'incontro nel mondo reale solo perché c'è un appuntamento nel messaggio — il ritardo può essere parte della tensione.

@@ -26,9 +26,9 @@ Il nome non invita. Non rassicura. Va bene così.
 
 Luca **trova Nadir** durante una serata nell'Etere. Non è un caso: è un esperto, conosce layer e comandi che gli utenti comuni ignorano. Nota un'anomalia — un dettaglio fuori posto — e la segue fino a uno spazio nascosto dove si riunisce il gruppo.
 
-Resta pochi minuti. Poi **Laura** — membro di Nadir — si accorge di lui e lo fissa. Luca **scappa**.
+Resta pochi minuti. Poi una **figura** — senza nome, per ora — si accorge di lui e lo fissa. Luca **scappa**.
 
-Più avanti Laura lo troverà nel mondo reale e lo **ingaggerà**. Fra i due, all'inizio, conflitto; poi complicità; infine amore — un arco che attraversa tutto il libro.
+Chi sia quella figura, e quando emergerà nel mondo reale, è parte di un arco **lento**. Non affrettare la rivelazione.
 
 _Vedi: [laura.md](laura.md) · [capitoli/01.md](../capitoli/01.md)_
 
