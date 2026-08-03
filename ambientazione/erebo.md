@@ -55,8 +55,8 @@ Più avanti — tramite Nadir o Laura — scoprirà che si chiamano **Erebo**. O
 
 | Nome | Chi lo usa | Uso nel racconto |
 |------|------------|------------------|
-| **Erebo** | Documenti interni, élite, **Prisma/Eos** (sussurri), **Nadir** | **Nome interno** dell'unità — **non** compare online |
-| **Spettri** | Voce popolare, social, commenti cancellati | **Unico nome** che circola in pubblico dopo un blackout |
+| **Erebo** | Élite, **Nadir**, pochi interni di alto livello | **Nome interno** — **non** online, **non** in mensa/open space |
+| **Spettri** | Voce popolare, social, vicine, commenti cancellati | **Unico nome** che circola in pubblico dopo un blackout |
 | **L'Alto** | Chi parla delle élite senza nominarle | Il potere sopra Eos — mai visto, solo vociferato |
 
 ### Chi sa cosa
