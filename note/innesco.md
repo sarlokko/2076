@@ -10,7 +10,8 @@ _Vedi: [capitoli/01.md](../capitoli/01.md)_
 
 ## Dopo l'innesco
 
-- **Cap. 2**: giornata a Prisma; messaggio **anonimo** con appuntamento. Nessuna firma. Per Luca è qualcuno — non necessariamente una persona che conosce già.
-- **Laura**: resta nascosta. Non confermare la sua identità nel testo finché non è il momento giusto. L'appuntamento può creare tensione senza rivelarla subito.
+- **Cap. 2–3**: messaggio anonimo; giardino; donna senza nome.
+- **Cap. 4–5**: audit insabbiato; blackout; fotogrammi.
+- **Cap. 6–7**: Diego parla di Spettri; Laura nell'Etere rivela **Erebo** e lo vuole in Nadir.
 
 _Vedi: [arco-narrativo.md](arco-narrativo.md) · [../personaggi/laura.md](../personaggi/laura.md)_

@@ -152,9 +152,9 @@ Luca per lui non è solo un collega: è il modello di come vorrebbe essere tra c
 
 Quando è nervoso, parla troppo in fretta. Quando capisce qualcosa, si illumina in un modo che Luca trova difficile non apprezzare.
 
-### Capitolo 6 — Erebo a pranzo
+### Capitolo 6 — Spettri a pranzo
 
-Diego abita **vicino al Quartiere delle Colonne**. La vicina anziana **signora Marta** gli parla degli **Spettri**; online circola solo quel nome. **Erebo** lo conosce perché si **sussurra in ufficio** da tempo e lui ha collegato le cose dopo sabato. Sottovoce, come robe segrete. Luca si impaurisce. Marco chiude con una risata brutta.
+Diego abita **vicino al Quartiere delle Colonne**. La vicina **signora Marta** parla di passi sul tetto e un'ombra sparita al frame dopo: **Spettri**. Online circola solo quel nome. **Niente Erebo** (quello arriva con Laura al cap. 7). **Niente armature** — Diego non le ha viste. Luca collega mentalmente ai fotogrammi. Marco chiude con una risata secca.
 
 > **Aggancio futuro:** verso la fine, Luca può **affidarsi a Diego** in un momento di difficoltà — capisce che il ragazzo sa, è dalla parte giusta, e non crede al sistema.
 

@@ -42,7 +42,7 @@ Luca riceve un messaggio anonimo — appuntamento, minaccia leggera. **Non firma
 
 ## Messaggio (Capitolo 6)
 
-Dopo il blackout e il pranzo con Diego/Marco. Laura **non** può sapere che a pranzo si è parlato di Erebo (è stato Diego a dirlo; Luca non ha aperto bocca). Il messaggio tocca solo **sabato** — *quello che hai visto* — e l'appuntamento in Etere. Nessun riferimento a pranzo né al nome Erebo; quello arriva al **Capitolo 7**.
+Dopo il blackout e il pranzo con Diego/Marco (a pranzo si parla solo di **Spettri**, non di Erebo). Il messaggio tocca solo **sabato** — *quello che hai visto* — e l'appuntamento in Etere. Il nome **Erebo** arriva al **Capitolo 7**, dalla bocca di Laura.
 
 ## Incontro nell'Etere (Capitolo 7)
 
@@ -52,7 +52,7 @@ Argomenti:
 - L'**attacco Erebo** durante il blackout del Quartiere delle Colonne
 - Nadir sa che si chiamano **Erebo** — non è roba da social, è roba da chi sta sotto
 - Questa volta **ci sono andati molto vicini** a prenderli; la rete è scossa, qualcuno ha dovuto spostarsi, cancellare tracce
-- Luca non deve parlare di Erebo in ufficio (Laura sa che circola, non i dettagli del pranzo)
+- Luca non deve parlare di Erebo in ufficio (il nome non deve uscire; online solo Spettri)
 - **Reclutamento:** Laura gli fa capire che lo vuole in Nadir perché è *l'uomo giusto* — trova le falle, è venuto al giardino, ha i fotogrammi, lavora dentro Prisma/Eos. Non chiede il sì stasera; Luca non accetta né rifiuta.
 
 ## Rapporto con Luca (arco lungo)

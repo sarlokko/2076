@@ -35,7 +35,7 @@ Circa **una settimana** dalla prima sera al cap. 7 — non mesi.
 | Cap. 4 | Audit Eos-7, Luca **insabbia**; Sara lascia una **pulce nell'orecchio** | |
 | Cap. 5 | **Blackout** settore Sud-Ovest (Quartiere delle Colonne); comunicato Eos = guasto risolto | Lontano da Stazione Nord / Giardino; operazione **Erebo** |
 | Subito dopo blackout (cap. 5) | Luca recupera **fotogrammi** di nascosto | Sagoma che **sparisce**; solo lui lo sa |
-| Cap. 6 | Lunedì Prisma; pranzo: Spettri (vicina Diego + online), Erebo (sussurri in ufficio) | **Laura**: messaggio + Etere ore 22 |
+| Cap. 6 | Lunedì Prisma; pranzo: solo **Spettri** (Marta + online); niente Erebo/armature | **Laura**: messaggio + Etere ore 22 |
 | Cap. 7 | Incontro **Laura** nell'Etere | Nome *Laura*; Erebo, quasi presi; **reclutamento** — lui è l'uomo giusto per Nadir |
 | Cap. 8 | **Prova** (non giuramento) | Codice firma Level-R sullo spegnimento Colonne; padre scrive: vieni questo weekend |
 | Cap. 9 | **Paese** — San Cassiano; padre **Paolo** | Passato ribelle ~2041; non spinge Nadir, dà permesso interiore; Luca scrive *Dentro* |
