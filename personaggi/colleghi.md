@@ -100,6 +100,11 @@ Quando qualcosa non le torna, lo descrive con immagini — *una stanza spostata 
 - Luca la interpreta come metafora da collega / rimprovero sullo stile — **la pulce nell'orecchio** che poi scaccia. In retrospectiva: Sara aveva capito.
 - **Niente** rivelazioni su Nadir o complotti. Solo un'impressione che non torna subito.
 
+#### Capitolo 10 — primo twist
+
+- Sara si rivela **Nadir** nell'Etere la sera in cui Luca entra. Teatro in ufficio (*starnuto/fazzoletto*); verità sotto. Si propone come **ponte** in Prisma.
+- Luca crede all'alleanza. Laura resta attenta (filo teso tra le due). **Secondo twist ancora nascosto.**
+
 #### Indizi da seminare (bozza)
 
 - Sa sempre troppe cose su audit e protocolli «per caso».

@@ -2,7 +2,7 @@
 
 ## Nome
 
-**Luca Marchetti**
+**Luca Moretti**
 
 ## Età
 
@@ -88,6 +88,6 @@ _Vedi: [note/innesco.md](../note/innesco.md) · [personaggi/nadir.md](nadir.md) 
 
 - Luca conosce il legame Prisma–Eos solo come voce corporate, o sa di più?
 - Sa già del potere delle élite sullo spegnimento — lo scoprirà nel dettaglio attraverso Nadir?
-- Il padre è ancora vivo? Vive ancora nel paese?
+- Padre **Paolo Moretti**, vivo a **San Cassiano** (cap. 9): ribelle da giovane (~2041), poi si fermò quando arrivò la luce.
 - Ha contatti nella rete anonima che diventeranno rilevanti?
 - Chi sono gli amici nelle città virtuali?

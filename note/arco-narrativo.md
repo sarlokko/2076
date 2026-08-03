@@ -37,9 +37,9 @@ Circa **una settimana** dalla prima sera al cap. 7 — non mesi.
 | Subito dopo blackout (cap. 5) | Luca recupera **fotogrammi** di nascosto | Sagoma che **sparisce**; solo lui lo sa |
 | Cap. 6 | Lunedì Prisma; pranzo: Spettri (vicina Diego + online), Erebo (sussurri in ufficio) | **Laura**: messaggio + Etere ore 22 |
 | Cap. 7 | Incontro **Laura** nell'Etere | Nome *Laura*; Erebo, quasi presi; **reclutamento** — lui è l'uomo giusto per Nadir |
-| Cap. 8–9 | **Sara è Nadir** | Primo colpo di scena — sembra alleata; Luca la **rincorre** dentro Nadir |
-| Cap. 12–15 | Luca torna al **paese**, parla col **padre** | Il padre si era ribellato da giovane (guerra/tracollo energia) |
-| Cap. 15–17 | Luca **si unisce a Nadir** | Gli spiegano gli inganni delle élite |
+| Cap. 8 | **Prova** (non giuramento) | Codice firma Level-R sullo spegnimento Colonne; padre scrive: vieni questo weekend |
+| Cap. 9 | **Paese** — San Cassiano; padre **Paolo** | Passato ribelle ~2041; non spinge Nadir, dà permesso interiore; Luca scrive *Dentro* |
+| Cap. 10 | Luca **entra in Nadir**; **Sara è Nadir** | Primo twist — sembra alleata / ponte in Prisma; Laura + Sara tesa sottile |
 | Climax | **File nascosti** sui server Prisma | Solo Luca può recuperarli; obiettivo: renderli pubblici |
 | **Finale** | **Sara è cattiva** — secondo twist | Figlia di un élite; infiltrata in Nadir; aveva **messo in contatto Laura e Luca**, raccontato tutto su Luca a Nadir, scelto lui per **incastrarlo** e distruggere Nadir |
 
