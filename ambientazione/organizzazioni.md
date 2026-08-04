@@ -42,6 +42,6 @@ _Vedi: [erebo.md](erebo.md)_
 
 ## Nadir
 
-Gruppo clandestino nell'**Etere**. Ribellione, consapevolezza, azioni che intralciano i poteri forti.
+Gruppo clandestino nell'**Etere**. Ribellione, consapevolezza, azioni che intralciano i poteri forti. Obiettivo centrale (da metà libro): **smascherare Zenit**.
 
-_Vedi: [../personaggi/nadir.md](../personaggi/nadir.md)_
+_Vedi: [../personaggi/nadir.md](../personaggi/nadir.md) · [zenit.md](zenit.md)_

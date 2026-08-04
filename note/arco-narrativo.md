@@ -39,9 +39,15 @@ Circa **una settimana** dalla prima sera al cap. 7 — non mesi.
 | Cap. 7 | Incontro **Laura** nell'Etere | Nome *Laura*; Erebo, quasi presi; **reclutamento** — lui è l'uomo giusto per Nadir |
 | Cap. 8 | **Prova** (non giuramento) | Codice Level-R; Luca **chiama da solo** il padre e propone il weekend |
 | Cap. 9 | **Paese** — San Cassiano; padre **Paolo** | Passato ribelle ~2041; non spinge Nadir, dà permesso interiore; Luca scrive *Dentro* |
-| Cap. 10 | Luca **entra in Nadir**; **Sara è Nadir** | Primo twist — sembra alleata / ponte in Prisma; Laura + Sara tesa sottile |
+| Cap. 10 | Luca **entra in Nadir**; **Sara è Nadir** | Primo twist — sembra alleata / ponte in Prisma |
+| Cap. 11 | Doppia vita Prisma; hash **Z-pre**; Laura spiega **Zenit** | Punteggio sociale + stacco persona; pubblico non saprà della soglia |
+| Prossimi | Annuncio Zenit in TG → gente accetta → operazione smascheramento | File Prisma = prova delle soglie/stacchi |
 | Climax | **File nascosti** sui server Prisma | Solo Luca può recuperarli; obiettivo: renderli pubblici |
-| **Finale** | **Sara è cattiva** — secondo twist | Figlia di un élite; infiltrata in Nadir; aveva **messo in contatto Laura e Luca**, raccontato tutto su Luca a Nadir, scelto lui per **incastrarlo** e distruggere Nadir |
+| **Finale** | **Sara è cattiva** — secondo twist | Figlia di un élite; infiltrata in Nadir; aveva **messo in contatto Laura e Luca**, scelto lui per **incastrarlo** e distruggere Nadir |
+
+### Zenit (segreto centrale)
+
+Punteggio sociale legato all’energia (pagare, “buone azioni”, Etere conforme). Sotto soglia = stacco **della persona** dalla rete. Annuncio pubblico soft; la parte sullo stacco va **smascherata**. _Vedi: [../ambientazione/zenit.md](../ambientazione/zenit.md)_
 
 ### Arco di Sara (doppio twist)
 

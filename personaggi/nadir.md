@@ -33,9 +33,14 @@ Chi sia quella figura, e quando emergerà nel mondo reale, è parte di un arco *
 
 _Vedi: [laura.md](laura.md) · [capitoli/01.md](../capitoli/01.md)_
 
+## Cosa sanno (da cap. 11)
+
+**Zenit**: punteggio sociale legato all’energia. L’Alto sta per annunciarlo come merito/sicurezza; nasconde le **soglie** e lo **stacco delle persone**. Nadir vuole i file Prisma per smascherarlo dopo (o mentre) l’annuncio pubblico.
+
+_Vedi: [../ambientazione/zenit.md](../ambientazione/zenit.md)_
+
 ## Domande aperte
 
-- Nadir ha ragione su qualcosa di concreto, o è solo teoria?
-- Sono infiltrati, osservati, o ancora sotto il radar?
-- C'è un volto reale che Luca incontrerà?
-- Qualcuno dentro Prisma o Eos li conosce — o li combatte?
+- Sono infiltrati, osservati, o ancora sotto il radar? (**Sara** — doppio gioco, autori)
+- Quando esce l’annuncio in telegiornale?
+- Luca riesce a prendere i file senza farsi incastrare?

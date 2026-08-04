@@ -63,9 +63,9 @@ La transizione ha ripulito il pianeta in modo visibile e rapido:
 
 ## Popolazione
 
-La popolazione mondiale è **controllata**. Non esiste più il problema della sovrappopolazione. Il sistema garantisce risorse e energia sufficienti per tutti, ma il numero di persone sul pianeta è regolato secondo criteri da definire.
+La popolazione mondiale è **controllata**. Non esiste più il problema della sovrappopolazione.
 
-> _Nota per lo sviluppo narrativo: chi decide i criteri? Come avviene il controllo? È accettato dalla maggioranza o è un punto di tensione nascosto?_
+> _Nadir sa che il passo successivo è **Zenit**: punteggio sociale legato all’energia. Sotto soglia = stacco della persona dalla rete. Vedi [zenit.md](zenit.md)._
 
 ## Il potere sulle élite
 
