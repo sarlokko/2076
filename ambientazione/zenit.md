@@ -1,6 +1,6 @@
 # Zenit — Protocollo / punteggio sociale
 
-> _Nome ufficiale (pubblico, quando verrà annunciato): da definire in comunicato Eos — può restare **Zenit** o avere un nome soft tipo “Cittadinanza Luminosa”. Internamente, Nadir lo chiama **Zenit**: l’opposto di Nadir._
+> _Nome pubblico (cap. 12): **Zenit** — “cittadinanza luminosa”. Slogan: partecipazione, cura, luce per tutti. Niente bolletta: contributo in **ore/attività nell’Etere** + buone azioni. Internamente resta l’opposto di Nadir._
 
 ## Cos’è
 
@@ -33,8 +33,8 @@ Sotto una **soglia**: stacco dalla rete — non sulla casa, sulla **persona**. M
 
 1. **Nadir sa già tutto** (file, bozze, voci da dentro).
 2. **Laura spiega a Luca** (e al lettore) — prima dell’annuncio ufficiale.
-3. **Telegiornali**: Zenit annunciato al mondo. La gente, in gran parte, **accetta** — hanno ricevuto tutto gratis; non vogliono tornare al 2041.
-4. Parte l’**operazione per smascherarli**: dimostrare che dietro il “premio ai bravi” c’è lo **stacco** delle persone. Obiettivo: i **file su Prisma** (solo Luca può prenderli / pubblicarli).
+3. **Telegiornali (cap. 12)**: Zenit annunciato. Versione bella; gente e Prisma **accettano**.
+4. **Operazione velo (da cap. 12)**: smascherare soglie/stacchi. Obiettivo: file Prisma dietro Z-pre.
 
 ## Legami
 
