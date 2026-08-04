@@ -31,8 +31,8 @@ Sotto una **soglia**: stacco dalla rete — non sulla casa, sulla **persona**. M
 
 ## Sequenza narrativa (confermata)
 
-1. **Nadir sa già tutto** (file, bozze, voci da dentro).
-2. **Laura spiega a Luca** (e al lettore) — prima dell’annuncio ufficiale.
+1. **Nadir sa già tutto** (file, bozze, voci da dentro). Accenni sparsi nei cap. 1, 3, 7, 8, 10 (senza nome Zenit).
+2. **Laura spiega a Luca** (cap. 11) — prima dell’annuncio ufficiale.
 3. **Telegiornali (cap. 12)**: Zenit annunciato. Versione bella; gente e Prisma **accettano**.
 4. **Operazione velo (da cap. 12)**: smascherare soglie/stacchi. Obiettivo: file Prisma dietro Z-pre.
 
