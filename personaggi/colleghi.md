@@ -92,6 +92,7 @@ Quando qualcosa non le torna, lo descrive con immagini — *una stanza spostata 
 - Ha **proposto Luca** al piano non per credere in Nadir, ma perché era la pedina più comoda: insider perfetto, fidato, facile da **incastrare** quando sarebbe arrivato il momento giusto.
 - Obiettivo reale: **distruggere Nadir una volta per tutte** dall'interno, con Luca come esca o colpevole finale.
 - A metà libro: Luca **rincorre Sara** fin dentro Nadir — crede di seguire un'alleata. Il primo twist (Sara è Nadir) sembra confermato.
+- **Cap. 13 — Attacco Erebo alle Colonne:** orchestrato da **Sara**. Ha passato a L'Alto/Erebo luogo e finestra (monitorando Luca / canale Nadir come “ponte”). Voleva bruciare un riparo, spaventare, stringere Luca e Laura. Al **showdown** lo rivela: *Chi pensi abbia detto loro dove sareste stati?*
 - A fine libro: salta fuori il **tradimento** — Sara non era mai stata dalla parte di Nadir. Era dalla parte di L'Alto.
 
 #### Capitolo 4 — presenza di Sara
@@ -111,6 +112,7 @@ Quando qualcosa non le torna, lo descrive con immagini — *una stanza spostata 
 - Reazioni ambigue quando si parla di blackout o Erebo.
 - Consigli a Luca che sembrano aiutarlo ma lo avvicinano a dove le élite vogliono.
 - Dopo il primo twist, può guidarlo verso file o scelte che **servono a L'Alto**, non a Nadir.
+- **Cap. 13:** saluta Luca in uscita troppo calma; messaggio *Eri in zona?* arriva **prima** del feed ufficiale sul disservizio — in retrospettiva: sapeva già.
 
 #### Da NON fare
 
