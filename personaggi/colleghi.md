@@ -34,6 +34,10 @@ Non sono amici fuori dall'ufficio — non si vedono a cena, non si scrivono nel 
 
 Quando Luca non dorme o è distratto, Marco se ne accorge. Non chiede due volte. Aspetta.
 
+### Arco (cap. 14)
+
+Ha un rapporto più umano con Elena rispetto agli altri. Quando lei sparisce — in realtà **spenta** da Zenit — ha paura a parlarne in ufficio. Alla fine si confida con **Luca** e **Diego**, fuori da Prisma: è lui che porta la prova umana dello stacco.
+
 ---
 
 ## Sara Okonkwo
@@ -189,6 +193,10 @@ Non è una figura materna. Non è una amica. È la capa che vuole che il lavoro 
 ### Dettaglio narrativo
 
 Quando attraversa il reparto, il brusio si abbassa di mezzo tono. Non perché la temano. Perché la rispettano.
+
+### Arco (cap. 14)
+
+Sparisce dall'ufficio da giorni. HR (e Sara) dicono *permesso personale*. In realtà Zenit l'ha **staccata** quasi subito: Javier, restauratore di libri, non “partecipa” abbastanza nell'Etere; il punteggio gli crolla; Elena prova ad aiutarlo (ore certificate a suo nome, ticket interno su un'anomalia che non è un bug). Sotto soglia. Vive al buio; Javier le porta cibo e acqua. Frase chiave: *non è un bug. È la feature.* È la prova umana che Zenit già spegne persone mentre la città festeggia i badge.
 
 ---
 
