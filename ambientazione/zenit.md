@@ -38,7 +38,7 @@ Sotto una **soglia**: stacco dalla rete — non sulla casa, sulla **persona**. M
 
 ## Legami
 
-- Blackout Colonne / Level-R / Erebo = prove generali e repressione **prima** del lancio.
+- Blackout Colonne / **Level-R** / Erebo = prove generali **prima** del lancio. Il codice che Luca porta a Laura (cap. 8) le conferma che il rollout è vicino; lui e il lettore lo capiscono solo al cap. 11.
 - Prisma = dove vivono le specifiche tecniche e le soglie.
 - Sara = vuole far fallire lo smascheramento (secondo twist).
 

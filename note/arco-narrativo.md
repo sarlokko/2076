@@ -37,7 +37,7 @@ Circa **una settimana** dalla prima sera al cap. 7 — non mesi.
 | Subito dopo blackout (cap. 5) | Luca recupera **fotogrammi** di nascosto | Sagoma che **sparisce**; solo lui lo sa |
 | Cap. 6 | Lunedì Prisma; pranzo: solo **Spettri** (Marta + online); niente Erebo/armature | **Laura**: messaggio + Etere ore 22 |
 | Cap. 7 | Incontro **Laura** nell'Etere | Nome *Laura*; Erebo, quasi presi; **reclutamento** — lui è l'uomo giusto per Nadir |
-| Cap. 8 | **Prova** (non giuramento) | Codice Level-R; Luca **chiama da solo** il padre e propone il weekend |
+| Cap. 8 | **Prova** (non giuramento) | Codice **Level-R**: per Laura conferma che Zenit è imminente; Luca/lettore non capiscono ancora; poi chiama il padre |
 | Cap. 9 | **Paese** — San Cassiano; padre **Paolo** | Passato ribelle ~2041; non spinge Nadir, dà permesso interiore; Luca scrive *Dentro* |
 | Cap. 10 | Luca **entra in Nadir**; **Sara è Nadir** | Primo twist — sembra alleata / ponte in Prisma |
 | Cap. 11 | Doppia vita Prisma; hash **Z-pre**; Laura spiega **Zenit** | Punteggio sociale + stacco persona; pubblico non saprà della soglia |
