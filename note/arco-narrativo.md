@@ -41,7 +41,7 @@ Circa **una settimana** dalla prima sera al cap. 7 — non mesi.
 | Cap. 9 | **Paese** — San Cassiano; padre **Paolo** | Passato ribelle ~2041; non spinge Nadir, dà permesso interiore; Luca scrive *Dentro* |
 | Cap. 10 | Luca **entra in Nadir**; **Sara è Nadir** | Primo twist — sembra alleata / ponte in Prisma |
 | Cap. 11 | Doppia vita Prisma; hash **Z-pre**; Laura spiega **Zenit** | Punteggio sociale + stacco persona; pubblico non saprà della soglia |
-| Cap. 12 | **Annuncio Zenit** in TG / città / Prisma | Versione bella: niente bolletta, ore in Etere, buone azioni; gente accetta; Nadir avvia **operazione velo** |
+| Cap. 12 | **Annuncio Zenit** in TG / città / Prisma | Versione bella; gente accetta; **Diego scettico** (aggancio finale); Nadir avvia **operazione velo** |
 | Prossimi | Preparazione → furto file Prisma → pubblicazione | Smascherare soglie/stacchi |
 | Climax | **File nascosti** sui server Prisma | Solo Luca può recuperarli; obiettivo: renderli pubblici |
 | **Finale** | **Sara è cattiva** — secondo twist | Figlia di un élite; infiltrata in Nadir; aveva **messo in contatto Laura e Luca**, scelto lui per **incastrarlo** e distruggere Nadir |

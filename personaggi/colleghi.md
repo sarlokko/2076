@@ -158,6 +158,10 @@ Diego abita **vicino al Quartiere delle Colonne**. La vicina **signora Marta** p
 
 > **Aggancio futuro:** verso la fine, Luca può **affidarsi a Diego** in un momento di difficoltà — capisce che il ragazzo sa, è dalla parte giusta, e non crede al sistema.
 
+### Capitolo 12 — Zenit
+
+Diego **non applaude** all’annuncio. Dubita su chi decide le “buone azioni”, chiede cosa succede se il punteggio scende, collega Colonne/Spettri. Sara lo liquidi come paranoico. Luca se lo segna mentalmente come possibile alleato.
+
 ---
 
 ## Elena Ruiz
