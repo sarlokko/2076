@@ -41,10 +41,15 @@ Circa **una settimana** dalla prima sera al cap. 7 — non mesi.
 | Cap. 9 | **Paese** — San Cassiano; padre **Paolo** | Passato ribelle ~2041; non spinge Nadir, dà permesso interiore; Luca scrive *Dentro* |
 | Cap. 10 | Luca **entra in Nadir**; **Sara è Nadir** | Primo twist — sembra alleata / ponte in Prisma |
 | Cap. 11 | Doppia vita Prisma; hash **Z-pre**; Laura spiega **Zenit** | Punteggio sociale + stacco persona; pubblico non saprà della soglia |
-| Cap. 12 | **Annuncio Zenit** in TG / città / Prisma | Versione bella; gente accetta; **Diego scettico** (aggancio finale); Nadir avvia **operazione velo** |
-| Prossimi | Preparazione → furto file Prisma → pubblicazione | Smascherare soglie/stacchi |
-| Climax | **File nascosti** sui server Prisma | Solo Luca può recuperarli; obiettivo: renderli pubblici |
-| **Finale** | **Sara è cattiva** — secondo twist | Figlia di un élite; infiltrata in Nadir; aveva **messo in contatto Laura e Luca**, scelto lui per **incastrarlo** e distruggere Nadir |
+| Cap. 12 | **Annuncio Zenit** in TG / città / Prisma | Versione bella; gente accetta; **Diego scettico**; **operazione velo** |
+| Cap. 13 | **Attacco Erebo** alle Colonne; fuga | Incontro **reale** Laura; chiave archivio; **scintilla sentimentale**; domani = furto |
+| Prossimi (ritmo alto) | Furto file → pubblicazione / quasi → twist Sara → Diego+Laura | Meno preparazione, più azione |
+| Climax | File + **Sara cattiva** | Incastra Luca / colpisce Nadir |
+| Finale | Laura (amore che sboccia) + Diego | Uscita dal buco; L’Alto in ombra |
+
+### Ritmo da cap. 13
+
+Più azione (Erebo, fughe, colpi). Romance **iniziato** sotto fuoco (cap. 13), sboccia al climax dopo il tradimento di Sara — non prima.
 
 ### Zenit (segreto centrale)
 

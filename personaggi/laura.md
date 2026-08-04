@@ -57,20 +57,19 @@ Argomenti:
 
 ## Rapporto con Luca (arco lungo)
 
-### Fase 1 — Conflitto
-Pensieri opposti. Luca in Prisma. Sfiducia reciproca. **Da costruire lentamente.**
+### Fase 1 — Ombra → nome → alleata
+Cap. 1–12.
 
-### Fase 2 — Complicità
-Prove condivise, bisogno reciproco. Ancora senza fretta.
+### Fase 2 — Scintilla (cap. 13)
+Incontro reale + fuga da Erebo. Quasi-tocco, “voglio vederti non solo i log”. Complicità sotto fuoco.
 
 ### Fase 3 — Amore
-La complicità diventa qualcosa di più — verso la fine del libro, non prima.
+Sboccia al **climax/finale**, dopo il tradimento di Sara — quando Laura resta l’unica linea vera.
 
 _Vedi: [note/arco-narrativo.md](../note/arco-narrativo.md)_
 
 ## Da NON fare (per ora)
 
 - Non dare background dettagliato a Laura troppo presto.
-- Non farla comparire di persona nel mondo reale con nome e cognome finché non è il momento giusto.
-- Non spiegare il suo ruolo in Nadir finché non serve alla scena.
-- Non accelerare l'incontro nel mondo reale solo perché c'è un appuntamento nel messaggio — il ritardo può essere parte della tensione.
+- Non dichiarare amore esplicito prima del twist Sara.
+- Non farla diventare secondaria rispetto a Sara.
