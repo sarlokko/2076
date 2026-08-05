@@ -9,8 +9,8 @@ from pathlib import Path
 from fpdf import FPDF
 
 ROOT = Path(__file__).resolve().parent.parent
-CAPITOLI = [ROOT / "capitoli" / f"{i:02d}.md" for i in range(1, 16)]
-OUTPUT = ROOT / "capitoli" / "2076-capitoli-01-15.pdf"
+CAPITOLI = [ROOT / "capitoli" / f"{i:02d}.md" for i in range(1, 17)]
+OUTPUT = ROOT / "capitoli" / "2076-capitoli-01-16.pdf"
 FONT = "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"
 FONT_BOLD = "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
 
