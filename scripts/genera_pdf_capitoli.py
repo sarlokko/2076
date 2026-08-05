@@ -11,23 +11,30 @@ from fpdf import FPDF
 ROOT = Path(__file__).resolve().parent.parent
 CAPITOLI = [ROOT / "capitoli" / f"{i:02d}.md" for i in range(1, 17)]
 OUTPUT = ROOT / "capitoli" / "2076-capitoli-01-16.pdf"
+COVER = ROOT / "capitoli" / "copertina-2076.png"
 FONT = "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"
 FONT_BOLD = "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
+FONT_TITLE = "/usr/share/fonts/truetype/noto/NotoSerifDisplay-Bold.ttf"
 
 
 class RomanzoPDF(FPDF):
     def header(self) -> None:
-        if self.page_no() > 1:
-            self.set_font("DejaVu", "", 9)
-            self.set_text_color(120, 120, 120)
-            self.cell(0, 8, "2076", align="C", new_x="LMARGIN", new_y="NEXT")
-            self.ln(2)
+        # Pagina 1 = copertina: niente header
+        if self.page_no() <= 1:
+            return
+        self.set_font("DejaVu", "", 9)
+        self.set_text_color(120, 120, 120)
+        self.cell(0, 8, "2076", align="C", new_x="LMARGIN", new_y="NEXT")
+        self.ln(2)
 
     def footer(self) -> None:
+        # Pagina 1 = copertina: niente numero
+        if self.page_no() <= 1:
+            return
         self.set_y(-15)
         self.set_font("DejaVu", "", 9)
         self.set_text_color(120, 120, 120)
-        self.cell(0, 10, f"{self.page_no()}", align="C")
+        self.cell(0, 10, f"{self.page_no() - 1}", align="C")
 
 
 def strip_md_inline(text: str) -> str:
@@ -121,21 +128,34 @@ def render_markdown(pdf: RomanzoPDF, content: str) -> None:
         flush_quote()
 
 
+def add_cover(pdf: RomanzoPDF) -> None:
+    """Copertina a tutta pagina: immagine + solo titolo 2076."""
+    pdf.add_page()
+    page_w, page_h = pdf.w, pdf.h
+
+    if COVER.exists():
+        pdf.image(str(COVER), x=0, y=0, w=page_w, h=page_h)
+
+    # Velo scuro in basso per leggibilità del titolo
+    with pdf.local_context(fill_opacity=0.45):
+        pdf.set_fill_color(8, 12, 20)
+        pdf.rect(0, page_h * 0.62, page_w, page_h * 0.38, style="F")
+
+    pdf.set_y(page_h * 0.72)
+    pdf.set_font("Title", "", 54)
+    pdf.set_text_color(245, 242, 235)
+    pdf.cell(0, 22, "2076", align="C", new_x="LMARGIN", new_y="NEXT")
+
+
 def main() -> None:
     pdf = RomanzoPDF()
     pdf.set_auto_page_break(auto=True, margin=20)
     pdf.set_margins(22, 22, 22)
     pdf.add_font("DejaVu", "", FONT)
     pdf.add_font("DejaVu", "B", FONT_BOLD)
+    pdf.add_font("Title", "", FONT_TITLE)
 
-    pdf.add_page()
-    pdf.set_font("DejaVu", "B", 26)
-    pdf.ln(40)
-    pdf.cell(0, 12, "2076", align="C", new_x="LMARGIN", new_y="NEXT")
-    pdf.ln(4)
-    pdf.set_font("DejaVu", "", 13)
-    pdf.set_text_color(80, 80, 80)
-    pdf.cell(0, 8, "Capitoli 1–13", align="C", new_x="LMARGIN", new_y="NEXT")
+    add_cover(pdf)
 
     for path in CAPITOLI:
         if not path.exists():
