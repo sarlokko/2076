@@ -96,8 +96,8 @@ Quando qualcosa non le torna, lo descrive con immagini — *una stanza spostata 
 - Ha **proposto Luca** al piano non per credere in Nadir, ma perché era la pedina più comoda: insider perfetto, fidato, facile da **incastrare** quando sarebbe arrivato il momento giusto.
 - Obiettivo reale: **distruggere Nadir una volta per tutte** dall'interno, con Luca come esca o colpevole finale.
 - A metà libro: Luca **rincorre Sara** fin dentro Nadir — crede di seguire un'alleata. Il primo twist (Sara è Nadir) sembra confermato.
-- **Cap. 13 — Attacco Erebo alle Colonne:** orchestrato da **Sara**. Ha passato a L'Alto/Erebo luogo e finestra (monitorando Luca / canale Nadir come “ponte”). Voleva bruciare un riparo, spaventare, stringere Luca e Laura. Al **showdown** lo rivela: *Chi pensi abbia detto loro dove sareste stati?*
-- A fine libro: salta fuori il **tradimento** — Sara non era mai stata dalla parte di Nadir. Era dalla parte di L'Alto.
+- **Cap. 13 — Attacco Erebo alle Colonne:** orchestrato da **Sara**. Ha passato a L'Alto/Erebo luogo e finestra (monitorando Luca / canale Nadir come “ponte”). Voleva bruciare un riparo, spaventare, stringere Luca e Laura.
+- **Cap. 15 — Showdown:** rivela il doppio gioco (contatto Laura↔Luca, infiltrazione Nadir, Colonne). Pathos sul **padre nell’Alto**: Joseph Okonkwo è copertura/nome pubblico; il padre vero siede con L’Alto. Ricorda la lampada e il pianto, sceglie comunque l’ordine del padre (Zenit come architettura, non pietà). Una lacrima; poi il segnale a Erebo. I file escono comunque via **Diego**.
 
 #### Capitolo 4 — presenza di Sara
 

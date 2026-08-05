@@ -44,9 +44,8 @@ Circa **una settimana** dalla prima sera al cap. 7 — non mesi.
 | Cap. 12 | **Annuncio Zenit** in TG / città / Prisma | Versione bella; gente accetta; **Diego scettico**; **operazione velo** |
 | Cap. 13 | **Attacco Erebo** alle Colonne; fuga | Orchestrato da **Sara** (reveal allo showdown); scintilla Laura; chiave; domani = furto |
 | Cap. 14 | Furto pacchetti soglia; **Elena spenta**; Marco si confida | Città festeggia Zenit; Elena staccata per aver aiutato Javier; Marco → Luca+Diego; operazione velo accelerata |
-| Prossimi (ritmo alto) | Pubblicazione / quasi → twist Sara → Diego+Laura | Meno preparazione, più azione |
-| Climax | File + **Sara cattiva** | Incastra Luca / colpisce Nadir |
-| Finale | Laura (amore che sboccia) + Diego | Uscita dal buco; L’Alto in ombra |
+| Cap. 15 | **Operazione velo** + showdown Sara | Upload bloccato; Sara rivela L’Alto/padre + Colonne; Erebo; pacchetto a Diego; fuga cabinovia torri; upload riesce; notizia esplode; romance Laura sboccia; L’Alto resta in ombra |
+| Dopo (coda) | Fuga / riparo; Diego si ricongiunge | Mondo che reagisce; L’Alto non si mostra |
 
 ### Ritmo da cap. 13
 
