@@ -129,22 +129,13 @@ def render_markdown(pdf: RomanzoPDF, content: str) -> None:
 
 
 def add_cover(pdf: RomanzoPDF) -> None:
-    """Copertina a tutta pagina: immagine + solo titolo 2076."""
+    """Copertina a tutta pagina (titolo 2076 già nell'immagine)."""
     pdf.add_page()
     page_w, page_h = pdf.w, pdf.h
 
-    if COVER.exists():
-        pdf.image(str(COVER), x=0, y=0, w=page_w, h=page_h)
-
-    # Velo scuro in basso per leggibilità del titolo
-    with pdf.local_context(fill_opacity=0.45):
-        pdf.set_fill_color(8, 12, 20)
-        pdf.rect(0, page_h * 0.62, page_w, page_h * 0.38, style="F")
-
-    pdf.set_y(page_h * 0.72)
-    pdf.set_font("Title", "", 54)
-    pdf.set_text_color(245, 242, 235)
-    pdf.cell(0, 22, "2076", align="C", new_x="LMARGIN", new_y="NEXT")
+    if not COVER.exists():
+        raise FileNotFoundError(COVER)
+    pdf.image(str(COVER), x=0, y=0, w=page_w, h=page_h)
 
 
 def main() -> None:
