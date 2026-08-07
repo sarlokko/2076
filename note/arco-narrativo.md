@@ -39,13 +39,15 @@ Circa **una settimana** dalla prima sera al cap. 7 — non mesi.
 | Cap. 7 | Incontro **Laura** nell'Etere | Nome *Laura*; Erebo, quasi presi; **reclutamento** — lui è l'uomo giusto per Nadir |
 | Cap. 8 | **Prova** (non giuramento) | Codice **Level-R**: per Laura conferma che Zenit è imminente; Luca/lettore non capiscono ancora; poi chiama il padre |
 | Cap. 9 | **Paese** — San Cassiano; padre **Paolo** | Passato ribelle ~2041; non spinge Nadir, dà permesso interiore; Luca scrive *Dentro* |
-| Cap. 10 | Luca **entra in Nadir**; **Sara è Nadir** | Primo twist — sembra alleata / ponte in Prisma |
-| Cap. 11 | Doppia vita Prisma; hash **Z-pre**; Laura spiega **Zenit** | Punteggio sociale + stacco persona; pubblico non saprà della soglia |
-| Cap. 12 | **Annuncio Zenit** in TG / città / Prisma | Versione bella; gente accetta; **Diego scettico**; **operazione velo** |
-| Cap. 13 | **Attacco Erebo** alle Colonne; fuga | Orchestrato da **Sara** (reveal allo showdown); scintilla Laura; chiave; domani = furto |
-| Cap. 14 | Furto pacchetti soglia; **Elena spenta**; Marco si confida | Città festeggia Zenit; Elena staccata per aver aiutato Javier; Marco → Luca+Diego; operazione velo accelerata |
-| Cap. 15 | **Operazione velo** + showdown Sara | Upload bloccato; Sara rivela L’Alto/padre + Colonne; Erebo; pacchetto a Diego; fuga cabinovia torri; upload riesce; notizia esplode; romance Laura sboccia; L’Alto resta in ombra |
-| Cap. 16 | **Finale aperto** | Riparo; Diego si ricongiunge; Elena ha visto i maxischermi; inizio ribellione in piazza (candele, *dove sono i disconnessi?*); minaccia anonima dall’Alto; non è vittoria — è l’inizio |
+| Cap. 10 | Luca **entra in Nadir**; **Sara è Nadir** | Primo twist; Laura ammette di aver accettato Sara come ponte “troppo pulito” |
+| Cap. 11 | Z-pre; Laura nomina **Zenit** a pezzi | Punteggio/dono che chiede; stacco **non** spiegato per intero; seme errore Laura su Sara |
+| Cap. 12 | **Annuncio Zenit** (versione bella) | Diego scettico; obiettivo file Prisma (meno manuale) |
+| Cap. 13 | Meeting reale **non autorizzato**; Erebo; fuga | Errore di Laura; scintilla; chiave; Sara ancora ambigua |
+| Cap. 14 | Furto soglie; **Elena spenta**; Marco | Prova umana; Diego aggancio |
+| Cap. 15 | Upload + showdown Sara (ambiguo) | Pathos padre/lampada senza organigramma; Laura ammette l’errore; Diego pubblica; fuga; romance senza santità |
+| Cap. 16 | **Finale più aperto** | Piazza divisa (rabbia + difesa del miracolo); L’Alto senza faccia; Sara/destino inspiegati; dono→prezzo visibile, non risolto |
+
+_Vedi anche: [revisione-editoriale.md](revisione-editoriale.md)_
 
 ### Ritmo da cap. 13
 

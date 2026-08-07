@@ -64,12 +64,16 @@ Cap. 1–12.
 Incontro reale + fuga da Erebo. Quasi-tocco, “voglio vederti non solo i log”. Complicità sotto fuoco.
 
 ### Fase 3 — Amore
-Sboccia al **climax/finale**, dopo il tradimento di Sara — quando Laura resta l’unica linea vera.
+Sboccia al **climax**, dopo il colpo di Sara — senza assoluzione netta: Laura resta umana, non santa.
+
+### Segreto / errore (cap. 10 → 13 → 15)
+
+Ha **accettato Sara come ponte** pur sentendo la pista Prisma “troppo pulita” (cap. 10). Al **cap. 13** forza un meeting fisico **non autorizzato** per consegnare la chiave — creando una finestra che Sara/Erebo sfruttano. Al **cap. 15** lo ammette: ha usato Luca e ha aperto una porta. Non è la spia; ha creato l’occasione.
 
 _Vedi: [note/arco-narrativo.md](../note/arco-narrativo.md)_
 
-## Da NON fare (per ora)
+## Da NON fare
 
 - Non dare background dettagliato a Laura troppo presto.
-- Non dichiarare amore esplicito prima del twist Sara.
+- Non assolvere Laura nel finale.
 - Non farla diventare secondaria rispetto a Sara.
