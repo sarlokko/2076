@@ -21,13 +21,15 @@ Dopo il leak, L’Alto non spiega: **colpisce**. Blackout selettivi, raid Erebo,
 | **Sara** | Antagonista ambigua → traiettoria verso il padre → **morte** dopo il confronto con lui. |
 | **Erebo / Zenit** | Braccio e guinzaglio; restano armi, non il volto finale del libro. |
 
-## Toni
+## Toni / stile
 
-- Action alta: inseguimenti, tagli di luce, assalti, fughe.
-- Zenit sempre presente finché non viene hackerato lo stacco.
+**Ritmo alto, da page-turner spietato** (registro Cussler / thriller d’azione): descrittivo ma senza pietà, azione a non finire, il lettore deve restare incollato. _Bibbia stile: [stile.md](stile.md)._
+
+- Scene che si mordono; cliffhanger interni.
+- Zenit come arma in diretta finché non viene hackerato lo stacco.
 - Dopo lo sganciamento: libertà pericolosa (invisibili al punteggio ≠ invulnerabili a Erebo).
-- Romance Luca/Laura: scene di cura, conflitto, desiderio; sboccia in amore totale verso il climax/finale.
-- Sara: niente monologhi-organigramma; prove, scelte, poi il padre.
+- Romance Luca/Laura: calore *dentro* la corsa, poi amore totale al climax.
+- Sara: niente monologhi-organigramma; pressione mentre si fugge; poi il padre.
 
 ## Motore narrativo (fasi)
 
