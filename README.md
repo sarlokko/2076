@@ -1,22 +1,38 @@
 # 2076
 
-Progetto per un racconto di fantascienza ambientato nel 2076.
+Trilogia di fantascienza ambientata nel 2076 (+ prequel sul tracollo).
+
+## Ciclo
+
+| Volume | Cartella | Stato |
+|--------|----------|--------|
+| **Libro I — 2076** | `capitoli/` | Completo (01–16) |
+| **Libro II — Zenit** *(titolo provvisorio)* | `libro-2/` | In corso |
+| **Libro III** | — | Da aprire |
+| **Prequel — Paolo** | `prequel/` | Scheletro |
+
+_Vedi: [note/trilogia.md](note/trilogia.md)_
 
 ## Struttura
 
 ```
 2076/
-├── capitoli/       # Bozze e versioni dei capitoli
-├── personaggi/     # Schede personaggi
-├── ambientazione/  # Mondo, luoghi, organizzazioni, cronologia
-├── note/           # Appunti, idee, trame secondarie
-└── bozze/          # Materiale grezzo e varianti scartate
+├── capitoli/          # Libro I
+├── libro-2/           # Libro II (capitoli + note)
+├── prequel/           # Prequel (scheletro)
+├── personaggi/
+├── ambientazione/
+├── note/
+├── bozze/
+└── scripts/           # PDF / Kindle Libro I
 ```
 
 ## Premessa
 
-Nel 2076 il pianeta è alimentato da energia solare orbitale trasmessa via satellite a torri di ricezione e diffusa senza fili. Nessun carburante, nessuna ricarica: energia pulita e infinita per case e mezzi. Tre decenni di questa rivoluzione hanno ripulito la Terra, fatto tornare natura e fauna, e reso la convivenza umana più pacifica. La popolazione mondiale è controllata.
+Nel 2076 il pianeta è alimentato da energia solare orbitale. Il “dono” della luce diventa strumento di controllo (**Zenit**). Libro I: scoperta e leak. Libro II: rappresaglia dell’Alto e guinzaglio del punteggio — ritmo più action.
 
-## Stato
+## Export Libro I
 
-Work in progress — Capitoli 1–2 in bozza (`capitoli/`).
+- PDF: `capitoli/2076-capitoli-01-16.pdf`
+- Kindle: `capitoli/2076-kindle.epub` / `.azw3`
+- Script: `python3 scripts/genera_pdf_capitoli.py` · `python3 scripts/genera_kindle.py`
