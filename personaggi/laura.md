@@ -63,8 +63,9 @@ Cap. 1–12.
 ### Fase 2 — Scintilla (cap. 13)
 Incontro reale + fuga da Erebo. Quasi-tocco, “voglio vederti non solo i log”. Complicità sotto fuoco.
 
-### Fase 3 — Amore
-Sboccia al **climax**, dopo il colpo di Sara — senza assoluzione netta: Laura resta umana, non santa.
+### Fase 3 — Amore (Libro II)
+
+Nel Libro II il legame **cresce per davvero** fino all’**amore totale** (scelta, corpo, fiducia dopo Sara). Non restare alla scintilla del Libro I.
 
 ### Segreto / errore (cap. 10 → 13 → 15)
 

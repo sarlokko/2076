@@ -97,7 +97,8 @@ Quando qualcosa non le torna, lo descrive con immagini — *una stanza spostata 
 - Obiettivo reale: **distruggere Nadir una volta per tutte** dall'interno, con Luca come esca o colpevole finale.
 - A metà libro: Luca **rincorre Sara** fin dentro Nadir — crede di seguire un'alleata. Il primo twist (Sara è Nadir) sembra confermato.
 - **Cap. 13 — Attacco Erebo alle Colonne:** orchestrato da **Sara**. Ha passato a L'Alto/Erebo luogo e finestra (monitorando Luca / canale Nadir come “ponte”). Voleva bruciare un riparo, spaventare, stringere Luca e Laura.
-- **Cap. 15 — Showdown (ambiguo):** non elenca tutto il piano. Ammette le Colonne / le porte aperte; pathos sul padre (lampada, pianto, “non so essere figlia a metà”) senza organigramma completo di L’Alto. Joseph resta nome da badge. Quanto altro abbia orchestrato resta **non spiegato**. Una lacrima; segnale a Erebo. I file escono via **Diego**.
+- **Cap. 15 — Showdown (ambiguo):** Colonne / porte; pathos padre senza organigramma. Joseph = nome badge.
+- **Libro II:** traiettoria verso il **padre** (capo Torre centrale Eos). Deve **centrarlo**. Poi **muore**. Non liquidazione lampo: confronto + costo per Luca.
 
 #### Capitolo 4 — presenza di Sara
 
@@ -166,7 +167,11 @@ Diego abita **vicino al Quartiere delle Colonne**. La vicina **signora Marta** p
 
 ### Capitolo 12 — Zenit
 
-Diego **non applaude** all’annuncio. Dubita su chi decide le “buone azioni”, chiede cosa succede se il punteggio scende, collega Colonne/Spettri. Sara lo liquidi come paranoico. Luca se lo segna mentalmente come possibile alleato.
+### Arco Libro II
+
+- **Entra in Nadir** (formalmente): non solo alleato occasionale — scelta e giuramento/pratica di gruppo.
+- Ponte con la piazza e i disconnessi; mani sul virus / canali di diffusione.
+- Resta il ragazzo che non applaude: paura vera + coraggio sporco.
 
 ---
 
