@@ -14,7 +14,7 @@ La torre di ricezione/comando **centrale** del reticolo Eos nella città (o hub 
 
 ## Chi la comanda
 
-Il **padre di Sara** — élite operativo, volto del controllo in questo volume. Da qui firma rappresaglie e tiene il miracolo come guinzaglio.
+Il **padre di Sara, Joseph Okonkwo** — élite operativo, capo della torre in questo volume. Stesso nome del Libro I. Da qui firma rappresaglie e tiene il miracolo come guinzaglio.
 
 ## Obiettivo Nadir (Libro II)
 

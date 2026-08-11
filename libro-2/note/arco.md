@@ -10,7 +10,7 @@ Dopo il leak, L’Alto non spiega: **colpisce**. Blackout selettivi, raid Erebo,
 2. **Luca ↔ Laura** — legame in **crescendo** per tutto il libro, fino all’**amore totale** (non solo scintilla: scelta, corpo, fiducia dopo Sara).
 3. **Hack dello stacco** — Nadir, con Luca, riesce a **sganciarsi da Zenit**: fuori dal punteggio, non più mappati/controllabili come prima. Senza questo, l’assalto alla torre è suicidio.
 4. **Obiettivo operativo** — arrivare alla **Torre centrale Eos** (struttura imponente, sicurezza + Erebo) e infilarci un **virus** che riveli al mondo i piani dell’élite e soprattutto quelli del **padre di Sara**.
-5. **Il padre di Sara** — è il **cattivo da sconfiggere** di questo libro: a capo della Torre centrale. Non più solo ombra: ha faccia, voce, potere concreto sul reticolo.
+5. **Joseph Okonkwo** — padre di Sara, già nominato nel Libro I: è il **cattivo da sconfiggere**, a capo della Torre centrale. Non un secondo padre “segreto”: è lui, più in alto di quanto i badge dicano.
 6. **Sara muore** — ma **prima deve centrare il padre** (scontro/riconoscimento/rottura). La sua morte pesa; non è una liquidazione lampo. Pathos + conseguenza per Luca.
 
 ## Antagonista
