@@ -17,7 +17,7 @@ Dopo il leak, L’Alto non spiega: **colpisce**. Blackout selettivi, raid Erebo,
 
 | Figura | Ruolo Libro II |
 |--------|----------------|
-| **Padre di Sara** *(nome di lavoro: da fissare; “Joseph” resta copertura badge)* | Capo della **Torre centrale Eos**. Architetto/guardiano del dono-come-controllo. Villain da affrontare. |
+| **Joseph Okonkwo** (padre di Sara) | Capo della **Torre centrale Eos**. Stesso uomo della lampada (Libro I). Villain da sconfiggere. |
 | **Sara** | Antagonista ambigua → traiettoria verso il padre → **morte** dopo il confronto con lui. |
 | **Erebo / Zenit** | Braccio e guinzaglio; restano armi, non il volto finale del libro. |
 

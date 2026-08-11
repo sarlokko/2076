@@ -97,8 +97,8 @@ Quando qualcosa non le torna, lo descrive con immagini — *una stanza spostata 
 - Obiettivo reale: **distruggere Nadir una volta per tutte** dall'interno, con Luca come esca o colpevole finale.
 - A metà libro: Luca **rincorre Sara** fin dentro Nadir — crede di seguire un'alleata. Il primo twist (Sara è Nadir) sembra confermato.
 - **Cap. 13 — Attacco Erebo alle Colonne:** orchestrato da **Sara**. Ha passato a L'Alto/Erebo luogo e finestra (monitorando Luca / canale Nadir come “ponte”). Voleva bruciare un riparo, spaventare, stringere Luca e Laura.
-- **Cap. 15 — Showdown (ambiguo):** Colonne / porte; pathos padre senza organigramma. Joseph = nome badge.
-- **Libro II:** traiettoria verso il **padre** (capo Torre centrale Eos). Deve **centrarlo**. Poi **muore**. Non liquidazione lampo: confronto + costo per Luca.
+- **Cap. 15 — Showdown (ambiguo):** Colonne / porte; pathos padre (lampada). **Joseph Okonkwo** = il padre (non un alias da sostituire): siede più in alto di quanto Prisma scriva.
+- **Libro II:** traiettoria verso **Joseph** (capo Torre centrale Eos). Deve **centrarlo**. Poi **muore**. Non liquidazione lampo: confronto + costo per Luca.
 
 #### Capitolo 4 — presenza di Sara
 
