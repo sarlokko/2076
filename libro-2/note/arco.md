@@ -39,23 +39,24 @@ _Bibbia operativa: [stile.md](stile.md). Il cap.1 corrente è il modello di tono
 ## Motore narrativo (fasi)
 
 1. **Rappresaglia** — Zenit + Erebo sulla città e sulla cellula.
-2. **Reclutamento Diego** — ingresso formale in Nadir.
-3. **Corsa tecnica** — Luca progetta/esegue l’hack per uscire dal punteggio.
-4. **Sganciati** — Nadir “staccata” da Zenit; si può pianificare la torre.
-5. **Assalto alla Torre centrale** — virus; rivelazione piani del padre di Sara.
-6. **Sara vs padre** — confronto; Sara muore.
-7. **Chiusura Libro II** — mondo che vede (in parte); padre sconfitto o ferito ma conseguenze aperte verso Libro III (L’Alto più ampio? costo della vittoria?).
+2. **Diego in Nadir** — ingresso formale.
+3. **Rivolta → reclute** — Noa, Idris, Tess entrano nel nucleo.
+4. **Hack Zenit / sganciamento** — fuori dal punteggio.
+5. **Morte di Diego** — costo umano prima (o durante) la salita alla torre; il gruppo non è più “i tre di Prisma”.
+6. **Assalto Torre centrale** — virus; piani di Joseph.
+7. **Sara vs Joseph** — lo centra; Sara muore.
+8. **Chiusura** — amore Luca/Laura; mondo scosso; adepti nuovi come ponte a Libro III.
 
 ## Bozza ordine (fluida)
 
 | Fase | Beat |
 |------|------|
-| Cap. 1 | ✅ Raid veglia; Zenit-manganello; offerta Sara |
-| Early | Riparo; Diego verso Nadir; legame Luca/Laura che si stringe |
-| Mid | Hack Zenit / sganciamento dal punteggio |
-| Late | Infiltrazione Torre centrale Eos; virus |
-| Climax | Padre di Sara; Sara lo centra; Sara muore |
-| Coda | Amore Luca/Laura pieno; mondo scosso; ponte a Libro III |
+| Cap. 1 | ✅ Raid veglia; offerta Sara |
+| Early | Riparo; Diego → Nadir; primi adepti dalla rivolta (Noa/Idris/Tess); Luca/Laura |
+| Mid | Hack sganciamento Zenit; morte di **Diego** (peso) |
+| Late | Torre centrale; virus |
+| Climax | Joseph; Sara lo centra; Sara muore |
+| Coda | Amore Luca/Laura; nuovo nucleo; ponte Libro III |
 
 ## Torre centrale Eos
 
@@ -67,7 +68,8 @@ _Bibbia operativa: [stile.md](stile.md). Il cap.1 corrente è il modello di tono
 ## Cosa NON fare
 
 - Non far morire Sara senza il padre (deve centrarlo).
-- Non risolvere tutto L’Alto: il padre è il boss di *questa* torre, non necessariamente l’unico élite del pianeta (Libro III).
-- Non far entrare Diego “perché sì”: deve scegliere.
-- Non lasciare Luca/Laura a scintilla: in questo libro **sbocciano per davvero**.
-- Non ripetere il leak del Libro I: qui si va al cuore del sistema.
+- Non far morire Diego “in off”: deve costare a Luca e aprire spazio agli adepti senza sostituirlo a freddo.
+- Non risolvere tutto L’Alto: Joseph è il boss di *questa* torre.
+- Non far entrare Diego / Noa / Idris / Tess “perché sì”: devono scegliere.
+- Non lasciare Luca/Laura a scintilla.
+- Non ripetere il leak del Libro I.
