@@ -18,13 +18,13 @@ Dalla rivolta / piazza / disconnessi emergono reclute. Tra queste, **tre** entra
 
 ## 2. Idris Sayed — “il che parla troppo bene”
 
-**Chi è:** ~35 anni. Ex comunicazioni / media civici (o freelance Ether). Elegante anche sporco. Sa scrivere un messaggio che fa uscire la gente in piazza — e sa quando *non* farlo.
+**Chi è:** ~35 anni. Ex **media manager per Eos** — campagne pubbliche, feed ufficiali, maxischermi, tono da “miracolo”. Elegante anche sporco. Sa scrivere un messaggio che fa uscire la gente in piazza — e sa quando *non* farlo. Conosce dall’interno come Eos racconta (e nasconde) le cose.
 
-**Come arriva:** ha amplificato i file del leak; Zenit gli ha mangiato il profilo pubblico. Arriva da Nadir non per fede mistica, ma perché “se non raccontiamo noi, raccontano loro”.
+**Come arriva:** ha amplificato i file del leak dopo averli riconosciuti come roba che in ufficio si sarebbe dovuta seppellire; Zenit gli ha mangiato il profilo. Arriva a Nadir non per fede mistica, ma perché “se non raccontiamo noi, raccontano loro” — e lui sa esattamente *come* raccontano loro.
 
 **Ruolo nel gruppo:** virus = anche *come* esce al mondo (timing, canali, forma). Conflitto sano con Laura (lei vuole sicurezza operativa; lui vuole risonanza).
 
-**Tic:** corregge le bugie ufficiali ad alta voce, anche quando sarebbe meglio stare zitti. Chiama Sara *la collega di Luca* finché non può più.
+**Tic:** corregge le bugie ufficiali ad alta voce, anche quando sarebbe meglio stare zitti. Chiama Sara *la collega di Luca* finché non può più. A volte scivola ancora nel gergo corporate Eos, e se ne accorge con disgusto.
 
 ---
 
