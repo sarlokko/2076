@@ -46,9 +46,9 @@ _Missione finale (tono IMF): [missione-torre.md](missione-torre.md)._
 4. **Hack Zenit / sganciamento** — fuori dal punteggio: *adesso* si può pensare in grande.
 5. **Assemblaggio + preparazione (tono Mission: Impossible)** — briefing, prove, ruoli, piano B. La squadra si coagula.
 6. **Morte di Diego (quasi al go)** — in piena prep, a missione imminente. Canali scoperti / pezzo di piano che crolla; il gruppo è in crisi assoluta e deve ripartire zoppo.
-7. **Missione Torre centrale** — comunque; infiltrazione; virus; improvvisazione pesante (manca Diego).
-8. **Sara vs Joseph** — lo centra; Sara muore.
-9. **Chiusura** — amore Luca/Laura; mondo scosso; squadra ferita come ponte a Libro III.
+7. **Missione Torre** — entrata → **fallimento a metà** (super difficoltà) → climax a salire (virus, Sara/Joseph, uscita).
+8. **Sara vs Joseph** — dentro il climax: lo centra; Sara muore.
+9. **Chiusura** — vittoria pagata; amore Luca/Laura; ponte Libro III.
 
 ## Bozza ordine (fluida)
 

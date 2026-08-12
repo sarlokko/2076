@@ -4,11 +4,14 @@ A un certo punto del Libro II il racconto **cambia marcia**: da fuga/rappresagli
 
 Riferimento: film di *Mission: Impossible* — team specializzato, ognuno con un compito netto, fase preparatoria curata, poi la missione impossibile (infilare il **virus** nella Torre centrale Eos).
 
-## Struttura a tre tempi
+## Struttura a tre tempi (+ fallimento)
 
-1. **Assemblaggio** — dopo sganciamento Zenit: serve una **squadra**, non solo una fuga.
-2. **Preparazione** — rehearsal, mappe, buchi di sicurezza, falsi badge, timing Erebo, prova del virus, litigi su chi entra. Il lettore *vede* il piano formarsi. **A ridosso del go: muore Diego** → crisi assoluta.
-3. **Missione** — partono comunque, zoppi; infiltrazione Torre; ogni specialista ha la sua finestra; improvvisazione pesante (canali di Diego da rifare al volo).
+1. **Assemblaggio** — dopo sganciamento Zenit: serve una **squadra**.
+2. **Preparazione** — briefing, prove, ruoli, piano B. **A ridosso del go: muore Diego** → crisi assoluta.
+3. **Missione** — partono zoppi.
+   - **Atto A:** entrata / primi obiettivi (sembra quasi funzionare).
+   - **Fallimento a metà:** qualcosa crolla (Erebo, Sara, air-gap, tradimento di un pezzo di piano, Joseph che chiude un piano). Super difficoltà: squadra spezzata, clock che scade, virus non ancora dentro.
+   - **Climax a salire:** ripresa sotto fuoco → iniezione virus → Sara centra Joseph → Sara muore → uscita / rivelazione pubblica. Ogni beat alza la posta, niente plateau.
 
 ## Ruoli in squadra (specialità)
 
