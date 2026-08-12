@@ -15,7 +15,7 @@ Tutto fissato su **sopravvivere agli attacchi e agli spegnimenti**. Non ancora l
 3. Diego entra in Nadir sul campo.
 4. Luca ↔ Laura si stringono sotto pressione.
 5. **Ricostruzione dal basso** — dopo aver solo subito: reti di disconnessi, depositi, gente che non applaude. Si cerca *cosa fare* oltre resistere.
-6. **Sfruttamento dell’energia via canali segreti** — dirottare/rubare fasci, nodi di servizio, uplink sporchi per alimentare ripari e **reclutare**. Qui entra l’**altro** del nucleo (**Idris**, ex media manager Eos: sa usare i canali perché li gestiva per loro).
+6. **Sfruttamento dell’Etere via canali segreti** — piazze/uplink non ufficiali, layer nascosti, feed dirottati per comunicare, organizzare e **reclutare**. Qui entra l’**altro** del nucleo (**Idris**, ex media manager Eos: sa usare quei canali perché li gestiva — o li sorvegliava — per loro).
 7. Chiusura prima metà: obiettivo chiaro emerge — **Torre + virus**; serve sganciarsi da Zenit.
 
 ### Seconda metà — **La missione**

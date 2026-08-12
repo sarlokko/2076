@@ -22,7 +22,7 @@ _Vedi piano missione: [../libro-2/note/missione-torre.md](../libro-2/note/missio
 
 **Chi è:** ~35 anni. Ex **media manager per Eos** — campagne, feed ufficiali, maxischermi, tono da “miracolo”. Elegante anche sporco. Conosce dall’interno come Eos racconta (e nasconde) le cose.
 
-**Come arriva (prima metà — canali segreti d’energia):** quando Nadir inizia a dirottare/usare uplink e nodi di servizio per alimentare ripari e reclutare, Idris riconosce le firme (le ha gestite per Eos). Arriva dal lato della propaganda: sa che quei canali possono anche *parlare* al mondo. Entra perché “se non raccontiamo noi, raccontano loro”.
+**Come arriva (prima metà — canali segreti dell’Etere):** quando Nadir apre layer nascosti, piazze non ufficiali e feed dirottati per organizzare e reclutare, Idris riconosce le firme (le ha gestite o monitorate per Eos). Arriva dal lato della propaganda: sa che quegli stessi canali possono *parlare* al mondo. Entra perché “se non raccontiamo noi, raccontano loro”.
 
 **Specialità (missione):** quando e *come* il virus esplode in pubblico (maxischermi, feed, contro-narrazione).
 
