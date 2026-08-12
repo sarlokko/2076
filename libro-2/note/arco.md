@@ -54,14 +54,17 @@ _Bibbia: [stile.md](stile.md)_
 
 ## Bozza ordine
 
-| Fase | Beat |
-|------|------|
-| Cap. 1 | ✅ Raid veglia; offerta Sara |
-| Prima metà A | Resistenza: spegnimenti, Zenit, **scontri Erebo**; entrano **Noa** e **Tess**; Diego in Nadir; Luca/Laura |
-| Prima metà B | **Ricostruzione dal basso**; obiettivo che emerge; **canali segreti dell’Etere** → reclute → entra **Idris** |
-| Ponte | Hack sganciamento Zenit |
-| Seconda metà | Prep IMF → **Diego muore quasi al go** → missione (fallimento a metà → climax) |
-| Finale | Joseph/Sara; coda Libro III |
+| Fase | Tempo (indicativo) | Beat |
+|------|--------------------|------|
+| Cap. 1 | ✅ Notte veglia | Raid; offerta Sara |
+| Cap. 2 | Ore → **giorno dopo** | Riparo; pressione Zenit; primo scontro Erebo; entra **Noa**; Diego chiede Nadir; Luca/Laura |
+| Cap. 3 | **Qualche giorno dopo** (non fondere col 2) | Spegnimenti a catena; scontro più duro; entra **Tess**; Diego accettato in Nadir |
+| Cap. 4 | **Fine settimana / giorni ancora** | Ricostruzione dal basso; canali segreti **Etere**; entra **Idris**; emerge obiettivo Torre |
+| … | Prima metà continua a **ritmo lento** (giorni/settimane, non 48h) | Resistenza + rete |
+| Ponte | Più avanti | Hack sganciamento Zenit |
+| Seconda metà | Prep → Diego muore al go → missione (fallimento a metà → climax) | IMF + Torre |
+
+**Ritmo temporale:** lento. Capitoli **separati**, non fusi. Tra un beat e l’altro lasciare passare tempo reale (sonno, ferite, cali Zenit, voci di quartiere).
 
 ## Adepti — quando entrano
 
