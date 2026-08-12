@@ -23,13 +23,11 @@ Dopo il leak, L’Alto non spiega: **colpisce**. Blackout selettivi, raid Erebo,
 
 ## Toni / stile
 
-**Ritmo alto, da page-turner spietato** (registro Cussler / thriller d’azione): descrittivo ma senza pietà, azione a non finire, il lettore deve restare incollato. _Bibbia stile: [stile.md](stile.md)._
+**Avventura / techno-thriller alla Clive Cussler**: prosa narrativa continua, azione a cascata, ironia sotto pressione, set piece. Non lo staccato da trailer. Niente riciclo di tic del Libro I. _Bibbia: [stile.md](stile.md)._
 
-- Scene che si mordono; cliffhanger interni.
-- Zenit come arma in diretta finché non viene hackerato lo stacco.
-- Dopo lo sganciamento: libertà pericolosa (invisibili al punteggio ≠ invulnerabili a Erebo).
-- Romance Luca/Laura: calore *dentro* la corsa, poi amore totale al climax.
-- Sara: niente monologhi-organigramma; pressione mentre si fugge; poi il padre.
+- Zenit come pressione concreta (numeri, amici colpiti), non refrain poetico a ogni chiusura.
+- Romance Luca/Laura: calore umano nella corsa → amore totale più avanti.
+- Sara in pressione mentre si fugge; Joseph come volontà dietro la “pulizia”.
 
 ## Motore narrativo (fasi)
 
