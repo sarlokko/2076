@@ -58,9 +58,9 @@ _Missione finale (tono IMF): [missione-torre.md](missione-torre.md)._
 | Early | Riparo; Diego → Nadir; adepti (Noa/Idris/Tess); Luca/Laura |
 | Mid | Hack sganciamento Zenit; adepti nel nucleo |
 | Mid–Late | **Prep missione** (IMF): briefing, prove, specialità — **Diego muore quasi al go** |
-| Late | **Missione** Torre + virus (squadra in difficoltà, piano da rifare al volo) |
-| Climax | Joseph; Sara lo centra; Sara muore |
-| Coda | Amore Luca/Laura; squadra; ponte Libro III |
+| Late | **Missione:** entrata → **fallimento a metà** → climax a salire (virus + Sara/Joseph) |
+| Climax | Joseph smascherato/colpito; Sara muore; rivelazione pubblica |
+| Coda | Costo altissimo; amore Luca/Laura; ponte Libro III |
 
 ## Torre centrale Eos
 

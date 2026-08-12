@@ -32,12 +32,27 @@ Riferimento: film di *Mission: Impossible* — team specializzato, ognuno con un
 - Un oggetto / chiave / finestra temporale che rende la missione *quasi* impossibile (da guadagnare con una sotto-missione).
 - Tensione umana: Luca/Laura; Tess troppo giovane; Idris vs Laura sul “quanto rumore fare”.
 
-## Timing morte Diego
+## Curva di difficoltà (missione)
 
-Fine della fase preparatoria, **a ridosso del go**. Effetto: piano quasi pronto → improvvisamente zoppo; morale a terra; la missione parte lo stesso perché non c’è più tempo (Joseph/Erebo stringono). Massimo senso di difficoltà.
+```
+prep quasi ok
+    │
+    ├─ Diego muore (quasi al go)     ███
+    │
+    ├─ Missione: entrata             ████
+    │
+    ├─ FALLIMENTO A METÀ             ████████  ← peggio punto
+    │
+    ├─ Improvvisazione / salita      ██████████
+    │
+    └─ Climax (virus + Sara/Joseph)  ████████████
+```
+
+Regola: dopo il fallimento a metà **non** si torna comodi. Solo peggio o vittoria pagata carissima.
 
 ## Cosa NON fare
 
 - Non far fare tutto a Luca.
-- Non saltare la preparazione: il lettore deve aver *aspettato* la missione.
-- Non rendere la missione pulita: qualcosa deve andare storto.
+- Non saltare la preparazione.
+- Non rendere la missione pulita: **fallimento a metà obbligatorio**, poi solo salita di difficoltà.
+- Non “risolvere facile” dopo Diego: la sua morte deve ancora fare male dentro la missione.
