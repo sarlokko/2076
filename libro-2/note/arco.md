@@ -21,13 +21,18 @@ Dopo il leak, L’Alto non spiega: **colpisce**. Blackout selettivi, raid Erebo,
 | **Sara** | Antagonista ambigua → traiettoria verso il padre → **morte** dopo il confronto con lui. |
 | **Erebo / Zenit** | Braccio e guinzaglio; restano armi, non il volto finale del libro. |
 
-## Toni / stile
+## Toni / stile (fissato)
 
-**Avventura / techno-thriller alla Clive Cussler**: prosa narrativa continua, azione a cascata, ironia sotto pressione, set piece. Non lo staccato da trailer. Niente riciclo di tic del Libro I. _Bibbia: [stile.md](stile.md)._
+**Avventura / techno-thriller alla Clive Cussler** — taglio approvato sul cap.1 riscritto.
 
-- Zenit come pressione concreta (numeri, amici colpiti), non refrain poetico a ogni chiusura.
+- Prosa narrativa continua, umana; azione a cascata; ironia sotto pressione; set piece.
+- **Non** lo staccato da trailer / telegrafo da IA.
+- **Non** riciclare tic del Libro I (*taglio*, fotogrammi cancellati, guinzaglio/spada a refrain, ecc.).
+- Zenit come pressione concreta (numeri, amici colpiti).
 - Romance Luca/Laura: calore umano nella corsa → amore totale più avanti.
 - Sara in pressione mentre si fugge; Joseph come volontà dietro la “pulizia”.
+
+_Bibbia operativa: [stile.md](stile.md). Il cap.1 corrente è il modello di tono._
 
 ## Motore narrativo (fasi)
 
