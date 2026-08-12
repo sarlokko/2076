@@ -15,7 +15,7 @@
 - Luca, Laura, Diego ricercati; Sara viva e pericolosa; Elena ancora al buio (o quasi).
 - L’Alto non si è mostrato; ha perso il velo, non il controllo.
 - **Premessa Libro II:** rappresaglia; Zenit come spada di Damocle; action alta.
-- **Beat chiave Libro II:** Diego → Nadir → **muore**; nuovi adepti (**Noa, Idris, Tess**); Luca/Laura → amore totale; hack sganciamento Zenit; Torre centrale + virus; **Joseph** da sconfiggere; **Sara muore** dopo averlo centrato.
+- **Beat chiave Libro II:** Diego → Nadir → **muore**; adepti **Noa/Idris/Tess**; Luca/Laura → amore totale; hack sganciamento Zenit; **prep + missione IMF** sulla Torre (virus); **Joseph** da sconfiggere; **Sara muore** dopo averlo centrato.
 
 _Dettaglio: [../libro-2/note/arco.md](../libro-2/note/arco.md)_
 
