@@ -31,7 +31,7 @@ _Dettaglio missione: [missione-torre.md](missione-torre.md) · Libro III: [../..
 ## Beat obbligatori (chiave)
 
 1. Prima metà = **resistere** (attacchi/spegnimenti + scontri Erebo).
-2. Primissimi adepti in scontro (**Noa**, **Tess**); **Idris** via canali segreti d’energia / reclutamento.
+2. Primissimi adepti in scontro (**Noa**, **Tess**); **Idris** via canali segreti dell’**Etere** / reclutamento.
 3. Diego → Nadir → **muore in prep, quasi al go**.
 4. Luca/Laura → amore totale.
 5. Hack sganciamento Zenit → prep IMF → missione con fallimento a metà e climax a salire.
@@ -58,7 +58,7 @@ _Bibbia: [stile.md](stile.md)_
 |------|------|
 | Cap. 1 | ✅ Raid veglia; offerta Sara |
 | Prima metà A | Resistenza: spegnimenti, Zenit, **scontri Erebo**; entrano **Noa** e **Tess**; Diego in Nadir; Luca/Laura |
-| Prima metà B | **Ricostruzione dal basso**; obiettivo che emerge; **canali segreti d’energia** → reclute → entra **Idris** |
+| Prima metà B | **Ricostruzione dal basso**; obiettivo che emerge; **canali segreti dell’Etere** → reclute → entra **Idris** |
 | Ponte | Hack sganciamento Zenit |
 | Seconda metà | Prep IMF → **Diego muore quasi al go** → missione (fallimento a metà → climax) |
 | Finale | Joseph/Sara; coda Libro III |
@@ -69,7 +69,7 @@ _Bibbia: [stile.md](stile.md)_
 |-----|---------|------|
 | **Noa** | Scontri / spegnimenti | Sopravvivenza, percorsi nel buio, aiuto materiale sotto Erebo |
 | **Tess** | Scontri / ripari | Mani su bypass e roba che si rompe durante i raid |
-| **Idris** | Canali segreti d’energia | Reclutamento sfruttando uplink/fasci dirottati; ex media manager Eos |
+| **Idris** | Canali segreti dell’**Etere** | Reclutamento su layer/feed nascosti; ex media manager Eos |
 
 _Schede: [../../personaggi/adepti-libro2.md](../../personaggi/adepti-libro2.md)_
 

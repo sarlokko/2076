@@ -45,7 +45,7 @@ _Vedi piano missione: [../libro-2/note/missione-torre.md](../libro-2/note/missio
 | Chi | Blocco | Via |
 |-----|--------|-----|
 | **Noa**, **Tess** | Resistenza / **scontri Erebo** | Campo, ripari, spegnimenti |
-| **Idris** | **Canali segreti d’energia** + reclutamento | Uplink/fasci dirottati; ex media manager Eos |
+| **Idris** | **Canali segreti dell’Etere** + reclutamento | Layer/feed nascosti; ex media manager Eos |
 
 ---
 
