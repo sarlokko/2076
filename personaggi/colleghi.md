@@ -169,9 +169,10 @@ Diego abita **vicino al Quartiere delle Colonne**. La vicina **signora Marta** p
 
 ### Arco Libro II
 
-- **Entra in Nadir** (formalmente): non solo alleato occasionale — scelta e giuramento/pratica di gruppo.
-- Ponte con la piazza e i disconnessi; mani sul virus / canali di diffusione.
-- Resta il ragazzo che non applaude: paura vera + coraggio sporco.
+- **Entra in Nadir** (formalmente): scelta guadagnata sul campo.
+- Ponte con la piazza e i disconnessi; mani sui canali.
+- **Muore** nel corso del Libro II — con peso emotivo su Luca; non liquidazione lampo. La sua assenza rende necessari (e umani) i nuovi adepti del nucleo.
+- Resta, finché c’è, il ragazzo che non applaude: paura vera + coraggio sporco.
 
 ---
 

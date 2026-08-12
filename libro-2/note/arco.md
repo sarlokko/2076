@@ -6,12 +6,14 @@ Dopo il leak, L’Alto non spiega: **colpisce**. Blackout selettivi, raid Erebo,
 
 ## Beat obbligatori (chiave)
 
-1. **Diego entra in Nadir** — non subito: guadagnato sul campo (piazza, upload, fuga). Diventa pezzo strutturale, non solo sidekick.
-2. **Luca ↔ Laura** — legame in **crescendo** per tutto il libro, fino all’**amore totale** (non solo scintilla: scelta, corpo, fiducia dopo Sara).
-3. **Hack dello stacco** — Nadir, con Luca, riesce a **sganciarsi da Zenit**: fuori dal punteggio, non più mappati/controllabili come prima. Senza questo, l’assalto alla torre è suicidio.
-4. **Obiettivo operativo** — arrivare alla **Torre centrale Eos** (struttura imponente, sicurezza + Erebo) e infilarci un **virus** che riveli al mondo i piani dell’élite e soprattutto quelli del **padre di Sara**.
-5. **Joseph Okonkwo** — padre di Sara, già nominato nel Libro I: è il **cattivo da sconfiggere**, a capo della Torre centrale. Non un secondo padre “segreto”: è lui, più in alto di quanto i badge dicano.
-6. **Sara muore** — ma **prima deve centrare il padre** (scontro/riconoscimento/rottura). La sua morte pesa; non è una liquidazione lampo. Pathos + conseguenza per Luca.
+1. **Diego entra in Nadir** — guadagnato sul campo; pezzo strutturale.
+2. **Diego muore** — più avanti, con peso; non “per fare posto”. La sua morte costringe il gruppo (e Luca) a crescere.
+3. **Nuovi adepti dalla rivolta** — massa + **nucleo stretto di 3**: **Noa**, **Idris**, **Tess** (caratteri singolari). _Schede: [../../personaggi/adepti-libro2.md](../../personaggi/adepti-libro2.md)_
+4. **Luca ↔ Laura** — crescendo fino all’**amore totale**.
+5. **Hack dello stacco** — Nadir si **sganci** da Zenit (con Luca + Tess).
+6. **Torre centrale Eos** + **virus** che rivela i piani di **Joseph Okonkwo**.
+7. **Joseph** = cattivo da sconfiggere (capo torre).
+8. **Sara muore** dopo aver **centrato** il padre.
 
 ## Antagonista
 
