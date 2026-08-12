@@ -7,7 +7,7 @@ Dopo il leak, L’Alto non spiega: **colpisce**. Blackout selettivi, raid Erebo,
 ## Beat obbligatori (chiave)
 
 1. **Diego entra in Nadir** — guadagnato sul campo; pezzo strutturale.
-2. **Diego muore** — più avanti, con peso; non “per fare posto”. La sua morte costringe il gruppo (e Luca) a crescere.
+2. **Diego muore in fase preparatoria** — quando la squadra è **quasi pronta** per la missione Torre. Il buco è massimo: piano quasi chiuso, specialità canali scoperta, morale a pezzi. Non “per fare posto”: li lascia in **assoluta difficoltà** a ridosso del go.
 3. **Nuovi adepti dalla rivolta** — massa + **nucleo stretto di 3**: **Noa**, **Idris**, **Tess** (caratteri singolari). _Schede: [../../personaggi/adepti-libro2.md](../../personaggi/adepti-libro2.md)_
 4. **Luca ↔ Laura** — crescendo fino all’**amore totale**.
 5. **Hack dello stacco** — Nadir si **sganci** da Zenit (con Luca + Tess).
