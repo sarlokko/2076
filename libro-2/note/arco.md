@@ -44,11 +44,11 @@ _Missione finale (tono IMF): [missione-torre.md](missione-torre.md)._
 2. **Diego in Nadir** — ingresso formale.
 3. **Rivolta → reclute** — Noa, Idris, Tess entrano nel nucleo (specialità che emergeranno).
 4. **Hack Zenit / sganciamento** — fuori dal punteggio: *adesso* si può pensare in grande.
-5. **Morte di Diego** — costo umano; il buco nella squadra si sente.
-6. **Assemblaggio + preparazione (tono Mission: Impossible)** — briefing, prove, ruoli netti, piano B. Cura della squadra prima del colpo.
-7. **Missione Torre centrale** — infiltrazione; virus; improvvisazione quando il piano salta.
+5. **Assemblaggio + preparazione (tono Mission: Impossible)** — briefing, prove, ruoli, piano B. La squadra si coagula.
+6. **Morte di Diego (quasi al go)** — in piena prep, a missione imminente. Canali scoperti / pezzo di piano che crolla; il gruppo è in crisi assoluta e deve ripartire zoppo.
+7. **Missione Torre centrale** — comunque; infiltrazione; virus; improvvisazione pesante (manca Diego).
 8. **Sara vs Joseph** — lo centra; Sara muore.
-9. **Chiusura** — amore Luca/Laura; mondo scosso; squadra come ponte a Libro III.
+9. **Chiusura** — amore Luca/Laura; mondo scosso; squadra ferita come ponte a Libro III.
 
 ## Bozza ordine (fluida)
 
@@ -56,9 +56,9 @@ _Missione finale (tono IMF): [missione-torre.md](missione-torre.md)._
 |------|------|
 | Cap. 1 | ✅ Raid veglia; offerta Sara |
 | Early | Riparo; Diego → Nadir; adepti (Noa/Idris/Tess); Luca/Laura |
-| Mid | Hack sganciamento Zenit; morte di **Diego** |
-| Mid–Late | **Prep missione** (IMF): briefing, prove, specialità, piano B |
-| Late | **Missione** Torre + virus (piano che va storto a metà) |
+| Mid | Hack sganciamento Zenit; adepti nel nucleo |
+| Mid–Late | **Prep missione** (IMF): briefing, prove, specialità — **Diego muore quasi al go** |
+| Late | **Missione** Torre + virus (squadra in difficoltà, piano da rifare al volo) |
 | Climax | Joseph; Sara lo centra; Sara muore |
 | Coda | Amore Luca/Laura; squadra; ponte Libro III |
 

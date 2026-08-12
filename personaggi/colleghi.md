@@ -171,7 +171,7 @@ Diego abita **vicino al Quartiere delle Colonne**. La vicina **signora Marta** p
 
 - **Entra in Nadir** (formalmente): scelta guadagnata sul campo.
 - Ponte con la piazza e i disconnessi; mani sui canali.
-- **Muore** nel corso del Libro II — con peso emotivo su Luca; non liquidazione lampo. La sua assenza rende necessari (e umani) i nuovi adepti del nucleo.
+- **Muore in fase preparatoria**, a missione Torre **quasi pronta**: lascia il gruppo in assoluta difficoltà (canali / pezzo di piano scoperti). Non liquidazione lampo: costa a Luca e costringe improvvisazione sotto clock.
 - Resta, finché c’è, il ragazzo che non applaude: paura vera + coraggio sporco.
 
 ---

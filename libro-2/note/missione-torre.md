@@ -6,20 +6,20 @@ Riferimento: film di *Mission: Impossible* — team specializzato, ognuno con un
 
 ## Struttura a tre tempi
 
-1. **Assemblaggio** — dopo sganciamento Zenit (e dopo/intorno alla morte di Diego): si capisce che non basta più correre. Serve una **squadra**.
-2. **Preparazione** — rehearsal, mappe, buchi di sicurezza, falsi badge, timing Erebo, prova del virus in ambiente controllato, litigi su chi entra e chi resta fuori. Qui il lettore deve *vedere* il piano formarsi.
-3. **Missione** — infiltrazione Torre; ogni specialista ha la sua finestra; se uno fallisce, gli altri improvvisano (il “piano va a puttane a metà” è benvenuto, alla IMF).
+1. **Assemblaggio** — dopo sganciamento Zenit: serve una **squadra**, non solo una fuga.
+2. **Preparazione** — rehearsal, mappe, buchi di sicurezza, falsi badge, timing Erebo, prova del virus, litigi su chi entra. Il lettore *vede* il piano formarsi. **A ridosso del go: muore Diego** → crisi assoluta.
+3. **Missione** — partono comunque, zoppi; infiltrazione Torre; ogni specialista ha la sua finestra; improvvisazione pesante (canali di Diego da rifare al volo).
 
 ## Ruoli in squadra (specialità)
 
 | Ruolo | Chi | Specialità |
 |-------|-----|------------|
-| **Lead operativo** | **Laura** | Comando sul campo, timing, “abort / go”, conoscenza Nadir |
-| **Ingegnere di sistema** | **Luca** | Virus, protocolli torre, punti di iniezione, pensiero tecnico sotto fuoco |
-| **Infiltrazione / percorsi** | **Noa** | Logistica, accessi secondari, sopravvivenza, “come si entra senza esistere” |
-| **Payload pubblico** | **Idris** | Ex media manager Eos: quando/come il virus *sparisce* sui maxischermi e feed; contro-narrazione |
-| **Bypass / gadget** | **Tess** | Hardware sporco, bypass fisici, speed-hack a fianco di Luca |
-| **Canali / ponte** *(finché vivo)* | **Diego** | Rete sporca, amici Ether, “chi riceve se noi non torniamo” — la sua morte lascia un buco che qualcuno deve riempire |
+| **Lead operativo** | **Laura** | Comando sul campo, timing, abort/go |
+| **Ingegnere di sistema** | **Luca** | Virus, protocolli torre, iniezione sotto fuoco |
+| **Infiltrazione / percorsi** | **Noa** | Accessi secondari, sopravvivenza, geografia del buio |
+| **Payload pubblico** | **Idris** | Ex media manager Eos: quando/come il virus esplode in pubblico |
+| **Bypass / gadget** | **Tess** | Hardware sporco, bypass, speed-hack con Luca |
+| **Canali / ponte** | **Diego** | Rete sporca, “chi riceve se non torniamo”. **Muore in prep, quasi al go** → buco critico |
 
 ## Fase preparatoria — cosa mostrare
 
@@ -29,9 +29,9 @@ Riferimento: film di *Mission: Impossible* — team specializzato, ognuno con un
 - Un oggetto / chiave / finestra temporale che rende la missione *quasi* impossibile (da guadagnare con una sotto-missione).
 - Tensione umana: Luca/Laura; Tess troppo giovane; Idris vs Laura sul “quanto rumore fare”.
 
-## Tono
+## Timing morte Diego
 
-Cussler resta la prosa di base; in questa sezione si aggiunge il **piacere del team heist**: competenza, clock, “siamo una macchina fatta di persone”. Non trasformarlo in parodia né in pure gadget-porn: ogni specialità serve al virus e a uscire vivi.
+Fine della fase preparatoria, **a ridosso del go**. Effetto: piano quasi pronto → improvvisamente zoppo; morale a terra; la missione parte lo stesso perché non c’è più tempo (Joseph/Erebo stringono). Massimo senso di difficoltà.
 
 ## Cosa NON fare
 
