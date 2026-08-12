@@ -2,80 +2,83 @@
 
 ## Premessa
 
-Dopo il leak, L’Alto non spiega: **colpisce**. Blackout selettivi, raid Erebo, cali di punteggio di massa. La popolazione intuisce che il miracolo ha un prezzo — ma Zenit è la **spada di Damocle**. Ritmo **molto più action** del Libro I.
+Dopo il leak, L’Alto non spiega: **colpisce**. Blackout selettivi, raid Erebo, cali di punteggio. Zenit è la spada di Damocle. Ritmo action Cussler; seconda metà → missione IMF sulla Torre.
+
+## Due metà (struttura)
+
+### Prima metà — **Resistere**
+
+Tutto fissato su **sopravvivere agli attacchi e agli spegnimenti**. Non ancora la missione Torre.
+
+1. Rappresaglia continua (buio selettivo + Zenit che punisce).
+2. **Scontri fisici con Erebo** — non solo fuga: contatto, ferite, vittorie parziali/sconfitte. Qui compaiono i **primi personaggi nuovi** (**Noa**, **Tess**).
+3. Diego entra in Nadir sul campo.
+4. Luca ↔ Laura si stringono sotto pressione.
+5. **Ricostruzione dal basso** — dopo aver solo subito: reti di disconnessi, depositi, gente che non applaude. Si cerca *cosa fare* oltre resistere.
+6. **Sfruttamento dell’energia via canali segreti** — dirottare/rubare fasci, nodi di servizio, uplink sporchi per alimentare ripari e **reclutare**. Qui entra l’**altro** del nucleo (**Idris**, ex media manager Eos: sa usare i canali perché li gestiva per loro).
+7. Chiusura prima metà: obiettivo chiaro emerge — **Torre + virus**; serve sganciarsi da Zenit.
+
+### Seconda metà — **La missione**
+
+8. Hack sganciamento Zenit (Luca + Tess).
+9. Assemblaggio squadra + **prep IMF**.
+10. **Diego muore quasi al go**.
+11. Missione: entrata → **fallimento a metà** → climax a salire (virus, Sara/Joseph).
+12. Sara centra Joseph e muore; coda verso Libro III (anni dopo, figlio).
+
+_Dettaglio missione: [missione-torre.md](missione-torre.md) · Libro III: [../../libro-3/note/arco.md](../../libro-3/note/arco.md)_
 
 ## Beat obbligatori (chiave)
 
-1. **Diego entra in Nadir** — guadagnato sul campo; pezzo strutturale.
-2. **Diego muore in fase preparatoria** — quando la squadra è **quasi pronta** per la missione Torre. Il buco è massimo: piano quasi chiuso, specialità canali scoperta, morale a pezzi. Non “per fare posto”: li lascia in **assoluta difficoltà** a ridosso del go.
-3. **Nuovi adepti dalla rivolta** — massa + **nucleo stretto di 3**: **Noa**, **Idris**, **Tess** (caratteri singolari). _Schede: [../../personaggi/adepti-libro2.md](../../personaggi/adepti-libro2.md)_
-4. **Luca ↔ Laura** — crescendo fino all’**amore totale**.
-5. **Hack dello stacco** — Nadir si **sganci** da Zenit (con Luca + Tess).
-6. **Torre centrale Eos** + **virus** — missione tipo *Mission: Impossible*: squadra specializzata, fase preparatoria, poi il colpo.
-7. **Joseph** = cattivo da sconfiggere (capo torre).
-8. **Sara muore** dopo aver **centrato** il padre.
+1. Prima metà = **resistere** (attacchi/spegnimenti + scontri Erebo).
+2. Primissimi adepti in scontro (**Noa**, **Tess**); **Idris** via canali segreti d’energia / reclutamento.
+3. Diego → Nadir → **muore in prep, quasi al go**.
+4. Luca/Laura → amore totale.
+5. Hack sganciamento Zenit → prep IMF → missione con fallimento a metà e climax a salire.
+6. Joseph da sconfiggere; Sara muore dopo averlo centrato.
+7. Ponte Libro III: 5–10 anni dopo, con figlio.
 
 ## Antagonista
 
-| Figura | Ruolo Libro II |
-|--------|----------------|
-| **Joseph Okonkwo** (padre di Sara) | Capo della **Torre centrale Eos**. Stesso uomo della lampada (Libro I). Villain da sconfiggere. |
-| **Sara** | Antagonista ambigua → traiettoria verso il padre → **morte** dopo il confronto con lui. |
-| **Erebo / Zenit** | Braccio e guinzaglio; restano armi, non il volto finale del libro. |
+| Figura | Ruolo |
+|--------|--------|
+| **Joseph Okonkwo** | Capo Torre centrale Eos |
+| **Sara** | Ambigua → centra il padre → muore |
+| **Erebo / Zenit** | Braccio e guinzaglio (prima metà: protagonisti della pressione) |
 
 ## Toni / stile (fissato)
 
-**Avventura / techno-thriller alla Clive Cussler** — taglio approvato sul cap.1 riscritto.
+Cussler umano (modello cap.1). Seconda metà: + registro *Mission: Impossible*. Niente tic del Libro I.
 
-- Prosa narrativa continua, umana; azione a cascata; ironia sotto pressione; set piece.
-- **Non** lo staccato da trailer / telegrafo da IA.
-- **Non** riciclare tic del Libro I (*taglio*, fotogrammi cancellati, guinzaglio/spada a refrain, ecc.).
-- Zenit come pressione concreta (numeri, amici colpiti).
-- Romance Luca/Laura: calore umano nella corsa → amore totale più avanti.
-- Sara in pressione mentre si fugge; Joseph come volontà dietro la “pulizia”.
-- **Mid–late libro:** tono *Mission: Impossible* — cura della squadra specializzata, fase preparatoria, poi missione virus (vedi [missione-torre.md](missione-torre.md)).
+_Bibbia: [stile.md](stile.md)_
 
-_Bibbia operativa: [stile.md](stile.md). Il cap.1 corrente è il modello di tono._
-_Missione finale (tono IMF): [missione-torre.md](missione-torre.md)._
-
-## Motore narrativo (fasi)
-
-1. **Rappresaglia** — Zenit + Erebo sulla città e sulla cellula.
-2. **Diego in Nadir** — ingresso formale.
-3. **Rivolta → reclute** — Noa, Idris, Tess entrano nel nucleo (specialità che emergeranno).
-4. **Hack Zenit / sganciamento** — fuori dal punteggio: *adesso* si può pensare in grande.
-5. **Assemblaggio + preparazione (tono Mission: Impossible)** — briefing, prove, ruoli, piano B. La squadra si coagula.
-6. **Morte di Diego (quasi al go)** — in piena prep, a missione imminente. Canali scoperti / pezzo di piano che crolla; il gruppo è in crisi assoluta e deve ripartire zoppo.
-7. **Missione Torre** — entrata → **fallimento a metà** (super difficoltà) → climax a salire (virus, Sara/Joseph, uscita).
-8. **Sara vs Joseph** — dentro il climax: lo centra; Sara muore.
-9. **Chiusura** — vittoria pagata; amore Luca/Laura; ponte esplicito a Libro III (**anni dopo**, con un figlio).
-
-_Libro III (direzione): [../../libro-3/note/arco.md](../../libro-3/note/arco.md)_
-
-## Bozza ordine (fluida)
+## Bozza ordine
 
 | Fase | Beat |
 |------|------|
 | Cap. 1 | ✅ Raid veglia; offerta Sara |
-| Early | Riparo; Diego → Nadir; adepti (Noa/Idris/Tess); Luca/Laura |
-| Mid | Hack sganciamento Zenit; adepti nel nucleo |
-| Mid–Late | **Prep missione** (IMF): briefing, prove, specialità — **Diego muore quasi al go** |
-| Late | **Missione:** entrata → **fallimento a metà** → climax a salire (virus + Sara/Joseph) |
-| Climax | Joseph smascherato/colpito; Sara muore; rivelazione pubblica |
-| Coda | Costo altissimo; amore Luca/Laura; ponte Libro III |
+| Prima metà A | Resistenza: spegnimenti, Zenit, **scontri Erebo**; entrano **Noa** e **Tess**; Diego in Nadir; Luca/Laura |
+| Prima metà B | **Ricostruzione dal basso**; obiettivo che emerge; **canali segreti d’energia** → reclute → entra **Idris** |
+| Ponte | Hack sganciamento Zenit |
+| Seconda metà | Prep IMF → **Diego muore quasi al go** → missione (fallimento a metà → climax) |
+| Finale | Joseph/Sara; coda Libro III |
+
+## Adepti — quando entrano
+
+| Chi | Momento | Come |
+|-----|---------|------|
+| **Noa** | Scontri / spegnimenti | Sopravvivenza, percorsi nel buio, aiuto materiale sotto Erebo |
+| **Tess** | Scontri / ripari | Mani su bypass e roba che si rompe durante i raid |
+| **Idris** | Canali segreti d’energia | Reclutamento sfruttando uplink/fasci dirottati; ex media manager Eos |
+
+_Schede: [../../personaggi/adepti-libro2.md](../../personaggi/adepti-libro2.md)_
 
 ## Torre centrale Eos
 
-- Struttura **imponente**, cuore simbolico e tecnico del reticolo cittadino/regionale.
-- Sicurezza a strati + presenza **Erebo**.
-- Il padre di Sara la comanda: da lì firma blackout, policy Zenit, rappresaglie.
-- Il virus di Nadir non “spegne il mondo”: **rivela** (piani, ordini, catena di comando) — soprattutto la sua.
+Obiettivo della **seconda** metà. Virus = rivelare piani (soprattutto Joseph), non spegnere il mondo.
 
 ## Cosa NON fare
 
-- Non far morire Sara senza il padre (deve centrarlo).
-- Non far morire Diego “in off”: deve costare a Luca e aprire spazio agli adepti senza sostituirlo a freddo.
-- Non risolvere tutto L’Alto: Joseph è il boss di *questa* torre.
-- Non far entrare Diego / Noa / Idris / Tess “perché sì”: devono scegliere.
-- Non lasciare Luca/Laura a scintilla.
-- Non ripetere il leak del Libro I.
+- Non anticipare la missione Torre nella prima metà (solo farla *emergere* come necessità).
+- Non far entrare tutti e tre gli adepti nello stesso modo.
+- Non far morire Sara senza Joseph; Diego non in off; niente plateau dopo il fallimento a metà.

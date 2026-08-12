@@ -10,7 +10,7 @@ _Vedi piano missione: [../libro-2/note/missione-torre.md](../libro-2/note/missio
 
 **Chi è:** ~28 anni. Ex logistica moduli / magazzini Eos periferici. Capelli corti, voce bassa, umorismo nero da mensa di turno notte.
 
-**Come arriva:** dopo un calo Zenit di massa sul suo quartiere aiuta a spostare cibo e candele per i disconnessi. Conosce i sottopassaggi e i depositi meglio di qualsiasi mappa ufficiale.
+**Come arriva (prima metà — scontri/spegnimenti):** sotto i blackout aiuta a spostare cibo e gente nei depositi; in uno scontro fisico con Erebo (o nella fuga subito dopo) diventa impossibile da ignorare. Entra perché sa dove si sopravvive quando la luce mente.
 
 **Specialità (missione):** accessi secondari, geografia del buio, scorte, “come si entra senza esistere sul badge”.
 
