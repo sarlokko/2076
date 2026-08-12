@@ -45,7 +45,7 @@ Dalla rivolta / piazza / disconnessi emergono reclute. Tra queste, **tre** entra
 | Personaggio | Porta al gruppo | Tensione |
 |-------------|-----------------|----------|
 | **Noa** | Sopravvivenza materiale, geografia del buio | Pazienza zero per il romanticismo della rivoluzione |
-| **Idris** | Voce pubblica, forma del virus | Vuole spettacolo; Laura vuole non morire |
+| **Idris** | Voce pubblica (ex media manager Eos), forma del virus | Vuole risonanza; Laura vuole non morire |
 | **Tess** | Mani sull’hack | Troppo giovane / troppo necessaria |
 
 Restano altri adepti di sfondo (massa della rivolta). Questi tre diventano **parte stretta**: hanno battute, scelte, rischio.
