@@ -48,7 +48,9 @@ _Missione finale (tono IMF): [missione-torre.md](missione-torre.md)._
 6. **Morte di Diego (quasi al go)** — in piena prep, a missione imminente. Canali scoperti / pezzo di piano che crolla; il gruppo è in crisi assoluta e deve ripartire zoppo.
 7. **Missione Torre** — entrata → **fallimento a metà** (super difficoltà) → climax a salire (virus, Sara/Joseph, uscita).
 8. **Sara vs Joseph** — dentro il climax: lo centra; Sara muore.
-9. **Chiusura** — vittoria pagata; amore Luca/Laura; ponte Libro III.
+9. **Chiusura** — vittoria pagata; amore Luca/Laura; ponte esplicito a Libro III (**anni dopo**, con un figlio).
+
+_Libro III (direzione): [../../libro-3/note/arco.md](../../libro-3/note/arco.md)_
 
 ## Bozza ordine (fluida)
 

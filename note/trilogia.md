@@ -5,23 +5,29 @@
 | Volume | Titolo di lavoro | Focus |
 |--------|------------------|--------|
 | **Prequel** | *(da definire)* — Storia di **Paolo** | Il tracollo ~2041; luce che arriva; seme del mondo “dono” |
-| **Libro I** | **2076** | Scoperta Nadir, Zenit, Sara, leak dei file; finale aperto |
-| **Libro II** | **Zenit** *(provvisorio)* | Rappresaglia; Zenit-guinzaglio; hack sganciamento; Torre centrale; padre di Sara; morte di Sara; amore Luca/Laura; Diego in Nadir |
-| **Libro III** | *(da definire)* | Confronti finali; L’Alto; prezzo della luce |
+| **Libro I** | **2076** | Scoperta Nadir, Zenit, Sara, leak; finale aperto |
+| **Libro II** | **Zenit** *(provvisorio)* | Rappresaglia; squadra; Torre; Joseph; morti Diego/Sara; amore Luca/Laura |
+| **Libro III** | *(da definire)* | **5–10 anni dopo** (~7–8 preferito); Luca e Laura con un **figlio**; L’Alto più ampio; prezzo della luce come eredità |
 
 ## Continuità Libro I → II
 
-- I file Zenit sono pubblici; la città è divisa (rabbia / difesa del miracolo).
-- Luca, Laura, Diego ricercati; Sara viva e pericolosa; Elena ancora al buio (o quasi).
-- L’Alto non si è mostrato; ha perso il velo, non il controllo.
-- **Premessa Libro II:** rappresaglia; Zenit come spada di Damocle; action alta.
-- **Beat chiave Libro II:** Diego → Nadir → **muore**; adepti **Noa/Idris/Tess**; Luca/Laura → amore totale; hack sganciamento Zenit; **prep + missione IMF** sulla Torre (virus); **Joseph** da sconfiggere; **Sara muore** dopo averlo centrato.
+- I file Zenit sono pubblici; la città è divisa.
+- **Premessa Libro II:** rappresaglia; Zenit-guinzaglio; action Cussler; poi tono IMF sulla Torre.
+- **Beat chiave Libro II:** Diego → Nadir → **muore in prep quasi al go**; adepti **Noa/Idris/Tess**; hack sganciamento; missione con **fallimento a metà** e climax a salire; **Joseph**; **Sara muore** dopo averlo centrato; amore totale Luca/Laura.
 
-_Dettaglio: [../libro-2/note/arco.md](../libro-2/note/arco.md)_
+_Dettaglio: [../libro-2/note/arco.md](../libro-2/note/arco.md) · [../libro-2/note/missione-torre.md](../libro-2/note/missione-torre.md)_
+
+## Continuità Libro II → III
+
+- Il mondo ha visto (in parte) dopo il virus; Joseph affrontato; Sara e Diego morti.
+- Luca e Laura insieme; col tempo nasce un figlio.
+- Libro III: non rifare la missione-torre — alzare la scala (L’Alto oltre una torre) e la posta (famiglia / eredità).
+
+_Scheletro: [../libro-3/note/arco.md](../libro-3/note/arco.md)_
 
 ## Dove vivono i testi
 
-- Libro I: `capitoli/` (01–16) + PDF/Kindle esistenti
-- Libro II: `libro-2/capitoli/`
-- Prequel: `prequel/` *(scheletro, da aprire dopo)*
-- Arco Libro II: `libro-2/note/arco.md`
+- Libro I: `capitoli/`
+- Libro II: `libro-2/`
+- Libro III: `libro-3/` *(scheletro)*
+- Prequel: `prequel/`
