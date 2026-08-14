@@ -58,8 +58,8 @@ _Bibbia: [stile.md](stile.md)_
 |------|--------------------|------|
 | Cap. 1 | ✅ Notte veglia | Raid; offerta Sara |
 | Cap. 2 | Ore → **giorno dopo** | Riparo; pressione Zenit; primo scontro Erebo; entra **Noa**; Diego chiede Nadir; Luca/Laura |
-| Cap. 3 | **Qualche giorno dopo** (non fondere col 2) | Spegnimenti a catena; scontro più duro; entra **Tess**; Diego accettato in Nadir |
-| Cap. 4 | **Fine settimana / giorni ancora** | Ricostruzione dal basso; canali segreti **Etere**; entra **Idris**; emerge obiettivo Torre |
+| Cap. 3 | ✅ **Qualche giorno dopo** (non fondere col 2) | Spegnimenti a catena; scontro più duro; entra **Tess**; Diego accettato in Nadir |
+| Cap. 4 | ✅ **Fine settimana / giorni ancora** | Ricostruzione dal basso; canali segreti **Etere**; entra **Idris**; emerge obiettivo Torre |
 | … | Prima metà continua a **ritmo lento** (giorni/settimane, non 48h) | Resistenza + rete |
 | Ponte | Più avanti | Hack sganciamento Zenit |
 | Seconda metà | Prep → Diego muore al go → missione (fallimento a metà → climax) | IMF + Torre |
