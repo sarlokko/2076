@@ -16,6 +16,19 @@ Indossano **armature speciali** che li rendono **del tutto invisibili** — non 
 - Non sono magia: sono tecnologia. Ma la distinzione, per chi le vede per un istante, non cambia molto.
 - Su registrazioni video compaiono come **anomalie**: un fotogramma, una sagoma che non dovrebbe esserci, poi un salto, un glitch, **nulla**. Come se qualcuno avesse cancellato un frame di realtà e avesse dimenticato di pulire i bordi.
 
+### Cosa sono, da vicino (Libro II)
+
+Non fantasmi: **uomini** con kit. Lo “spettro” è tecnologia.
+
+- **Imbracatura / piatti di spalla:** allargano il contorno (le “spalle sbagliate”).
+- **Visore:** mente alla luce; incrinato o staccato, sotto c’è un volto.
+- **Collare con griglia:** emette il fischio-proiettile; handshake con la **griglia** durante gli spegnimenti (*via libera* al buio). Sigle interne tipo `ER-7 / 14` (squadra/turno).
+- **Guanto con cresta metallica** sul dorso.
+
+**Cap. 3 Libro II:** Nadir ne atterra uno in scala, gli vede la faccia (anello, barba, mensa), porta via collare + piatto. Non il corpo (faro). **Cap. 4:** lo studiano da spento; un impulso di prova **canta verso la torre** — utile e pericoloso.
+
+_Vedi: [../libro-2/capitoli/03.md](../libro-2/capitoli/03.md)_
+
 ## Chi li comanda
 
 **Le élite** — non Eos in prima persona. Eos è il volto. L'Alto è altrove.
