@@ -31,8 +31,13 @@ _Vedi: [note/trilogia.md](note/trilogia.md)_
 
 Nel 2076 il pianeta è alimentato da energia solare orbitale. Il “dono” della luce diventa strumento di controllo (**Zenit**). Libro I: scoperta e leak. Libro II: rappresaglia dell’Alto e guinzaglio del punteggio — ritmo più action.
 
-## Export Libro I
+## Export
 
+### Libro I
 - PDF: `capitoli/2076-capitoli-01-16.pdf`
 - Kindle: `capitoli/2076-kindle.epub` / `.azw3`
 - Script: `python3 scripts/genera_pdf_capitoli.py` · `python3 scripts/genera_kindle.py`
+
+### Libro II
+- PDF (bozza, range aggiornato a ogni run): `libro-2/capitoli/zenit-capitoli-01-NN.pdf`
+- Script: `python3 scripts/genera_pdf_libro2.py`
