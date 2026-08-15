@@ -60,7 +60,8 @@ _Bibbia: [stile.md](stile.md)_
 | Cap. 2 | Ore → **giorno dopo** | Riparo; pressione Zenit; primo scontro Erebo; entra **Noa**; Diego chiede Nadir; Luca/Laura |
 | Cap. 3 | ✅ **Qualche giorno dopo** (non fondere col 2) | Spegnimenti a catena; scontro più duro; **Erebo atterrato** (viso + kit); entra **Tess**; Diego accettato in Nadir; **Chiara** resta nel riparo |
 | Cap. 4 | ✅ **Fine settimana / giorni ancora** | Ricostruzione; studio collare (ping verso torre); canali segreti **Etere**; entra **Idris**; **Sara** in eco sul layer; emerge obiettivo Torre |
-| … | Prima metà continua a **ritmo lento** (giorni/settimane, non 48h) | Resistenza + rete |
+| Cap. 5 | ✅ **Qualche giorno dopo** | Rete che cresce (Idris); Erebo cerca il collare; deposito perso; Sara in pubblico; Luca/Laura |
+| Cap. 6 | ✅ **Giorni ancora** | Zenit prende un recluta (Tino) in pieno giorno; isolato spostato sotto blackout; emerge il bisogno di **sganciarsi** da Zenit (non ancora l’hack) |
 | Ponte | Più avanti | Hack sganciamento Zenit |
 | Seconda metà | Prep → Diego muore al go → missione (fallimento a metà → climax) | IMF + Torre |
 
