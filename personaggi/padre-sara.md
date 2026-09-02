@@ -18,7 +18,7 @@ Padre di **Sara Okonkwo**. Nome già stabilito nel Libro I (scheda Sara; lampada
 
 - Figlia: **Sara**
 - Moglie (background): **Amaka**
-- Figlio: **Kelechi** (Eos, Roma) — da usare o lasciare in ombra secondo necessità
+- Figlio: **Kelechi** — Eos Roma nel Libro I; nel **Libro III** è il volto di **Orizzonte** (braccialetti minori). Joseph aveva ragione sul gelo, sbagliato sugli strumenti. Vive; va a Roma dopo il tre.
 
 ## Con Luca
 

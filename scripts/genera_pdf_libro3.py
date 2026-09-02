@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
-"""Genera un PDF dai capitoli markdown del Libro II (Zenit).
+"""Genera un PDF dai capitoli markdown del Libro III (Eredità).
 
-Scopre da solo `libro-2/capitoli/NN.md` e scrive
-`libro-2/capitoli/zenit-capitoli-01-NN.pdf` (range aggiornato a ogni run).
+Scopre da solo `libro-3/capitoli/NN.md` e scrive
+`libro-3/capitoli/eredita-capitoli-01-NN.pdf`.
 
-Uso: python3 scripts/genera_pdf_libro2.py
+Uso: python3 scripts/genera_pdf_libro3.py
 """
 
 from __future__ import annotations
@@ -15,7 +15,7 @@ from pathlib import Path
 from fpdf import FPDF
 
 ROOT = Path(__file__).resolve().parent.parent
-CAPITOLI_DIR = ROOT / "libro-2" / "capitoli"
+CAPITOLI_DIR = ROOT / "libro-3" / "capitoli"
 FONT = "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"
 FONT_BOLD = "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
 FONT_TITLE = "/usr/share/fonts/truetype/noto/NotoSansDisplay-Bold.ttf"
@@ -31,11 +31,11 @@ def find_chapters() -> list[Path]:
 def output_path(chapters: list[Path]) -> Path:
     first = int(chapters[0].stem)
     last = int(chapters[-1].stem)
-    return CAPITOLI_DIR / f"zenit-capitoli-{first:02d}-{last:02d}.pdf"
+    return CAPITOLI_DIR / f"eredita-capitoli-{first:02d}-{last:02d}.pdf"
 
 
 class RomanzoPDF(FPDF):
-    header_title = "2076 — Zenit"
+    header_title = "2076 — Eredità"
 
     def header(self) -> None:
         if self.page_no() <= 1:
@@ -147,13 +147,13 @@ def add_title_page(pdf: RomanzoPDF, last_chapter: int) -> None:
     pdf.set_y(page_h * 0.28)
     pdf.set_font("DejaVu", "", 11)
     pdf.set_text_color(90, 90, 90)
-    pdf.cell(0, 8, "2076  ·  LIBRO II", align="C", new_x="LMARGIN", new_y="NEXT")
+    pdf.cell(0, 8, "2076  ·  LIBRO III", align="C", new_x="LMARGIN", new_y="NEXT")
     pdf.ln(10)
 
     title_font = "Title" if Path(FONT_TITLE).exists() else "DejaVu"
     pdf.set_font(title_font, "B" if title_font == "DejaVu" else "", 42)
     pdf.set_text_color(15, 15, 15)
-    pdf.cell(0, 18, "ZENIT", align="C", new_x="LMARGIN", new_y="NEXT")
+    pdf.cell(0, 18, "EREDITÀ", align="C", new_x="LMARGIN", new_y="NEXT")
     pdf.ln(6)
 
     pdf.set_font("DejaVu", "", 13)

@@ -62,4 +62,12 @@ _Vedi piano missione: [../libro-2/note/missione-torre.md](../libro-2/note/missio
 
 Restano adepti di sfondo (massa della rivolta). Il nucleo ha battute, scelte, rischio — e, in prep, **prove e fallimenti** prima del go.
 
-_Vedi: [../libro-2/note/arco.md](../libro-2/note/arco.md)_
+## Libro III (2084)
+
+| Chi | Cosa è diventata |
+|-----|------------------|
+| **Noa** (~36) | Tiene il *basso* (non chiamarlo Nadir) e i bicchieri. |
+| **Tess** (~27) | Apre/taglia i braccialetti Orizzonte; palmo morso al tre. |
+| **Idris** (~43) | Osservatorio «narrazioni»; poi orecchie pulite chiuse. |
+
+_Vedi: [../libro-2/note/arco.md](../libro-2/note/arco.md) · [../libro-3/note/arco.md](../libro-3/note/arco.md)_
